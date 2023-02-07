@@ -47,6 +47,10 @@ output:
      toc: FALSE
      number_sections: FALSE
      extra_dependencies: ["flafter"]
+     
+   github_document:
+     toc: FALSE
+     number_sections: FALSE
 ---
 
 ```{r setup, include=FALSE}
