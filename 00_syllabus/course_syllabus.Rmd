@@ -1,22 +1,79 @@
-# Electoral Behavior and Party Competition: Continuity and Change in Western Europe
+---
+title: |
+  | Electoral Behavior and Party Competition: Continuity and Change in Western Europe^[This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`]
+  | \vspace{15truemm}
 
-University of Lucerne
+subtitle: "Masterseminar Spring 2023 <p> </p> Wednesdays 14:15-16:00 <p> </p> Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on the wednessday 22nd of March from 13:30 to 17:00.]"
 
-Masterseminar Spring 2023
+bibliography: ../00_bibliography/epbc_syllabus.bib
 
-Wednesdays 14:15-16:00 
+csl: ../00_bibliography/apa.csl
 
-Classroom HS12
+link-citations: yes
 
-## Course description
+linkcolor: blue
+
+header-includes:
+  
+- \usepackage{setspace}\onehalfspacing
+- \usepackage[utf8]{inputenc}
+- \usepackage{dcolumn}
+- \usepackage{booktabs}
+- \usepackage{longtable}
+- \usepackage{array}
+- \usepackage{multirow}
+- \usepackage{wrapfig}
+- \usepackage{float}
+- \usepackage{colortbl}
+- \usepackage{pdflscape}
+- \usepackage{tabu}
+- \usepackage{threeparttable}
+- \usepackage{threeparttablex}
+- \usepackage[normalem]{ulem}
+- \usepackage{makecell}
+- \usepackage{xcolor}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancypagestyle{plain}{\pagestyle{fancy}}
+- \fancyhead[LE,RO]{Álvaro Canalejo-Molero, MA \linebreak \href{mailto:alvaro.canalejo@unilu.ch}{\tt alvaro.canalejo@unilu.ch}}
+- \fancyhead[RE,LO]{University of Lucerne}
+
+
+fontsize: 12pt
+
+output: 
+  
+   pdf_document:
+     toc: FALSE
+     number_sections: FALSE
+     extra_dependencies: ["flafter"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Installing packages
+#install.packages("stevetemplates")
+#install.packages("bibtex")
+#install.packages("RefManageR")
+
+# Setting bibliography settings
+library(RefManageR)
+bib <- ReadBib("../00_bibliography/epbc_syllabus.bib") # assign .bib file
+myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+```
+
+
+# Course description
+
 
 Elections in Europe have become increasingly unpredictable in the last decades. In Germany, for example, the government negotiations escalated from one month in 2013 to almost six months after the entry of the radical party AfD in the *Bundestag* in 2017. In other European countries, such as Spain or the Netherlands, the number of parliamentary parties has doubled in the last twenty years, while the Italian party system has arguably collapsed twice in the same period. How has this situation come about? What are its consequences? These changes are not random but driven by societal transformations and the strategies of political actors, such as social movements and new challenger parties. In addition, they have not affected all of Europe equally but depend on factors that vary across countries and over time. This seminar will review the different 'transformation waves' that have shaped Western European party systems from the 1960s until now. It will then try to make sense of these changes by exploring the most relevant (electoral) demand-side and supply-side explanations discussed in the literature. The goal is to provide students with the conceptual and empirical tools to analyze the behaviour of voters and parties by following the evolution of Western European party systems from a comparative perspective.
 
-## Course organization
+# Course organization
 
 The course consists of a weekly seminar that will run during the Spring term of 2023 (February 22nd - May 31st). The substantive focus of the seminars is organized in four blocks. The first block will introduce students to the main concepts in the study of parties and party systems and review the main theories of party system formation. The second block will review the different transformational waves that have affected Western European party systems from the 1960s until now. The third block will delve into the literature on political behaviour and party competition to focus on the mechanisms behind party system stability and change. The final block will focus on the measurement of party system change and its normative implications.
 
-## Learning outcomes
+# Learning outcomes
 
 By the end of this course, students will be able to:
 
@@ -28,25 +85,25 @@ By the end of this course, students will be able to:
 
 - **(Communication)**  Communicate complex concepts effectively to a broad audience, alone or in collaboration with colleagues.
 
-## Teaching policy
+# Teaching policy
 
 This course is designed as a seminar, not a lecture. It aims to foster and refine critical thinking by providing a collaborative learning environment. The lecturer will give a broad overview of the subject matter in each lesson to guide the discussion, which the students will drive. Therefore, students are expected to study the mandatory readings before class. Slides are not intended to replace given texts and will only be distributed after each session.
 
-## Evaluation
+# Evaluation
 
-### Mandatory requirements (4 credits)
+## Mandatory requirements (4 credits)
 
 To receive the credits, students are expected to fulfil the following criteria:
 
-#### 1. Attend all the sessions.
+### 1. Attend all the sessions.
 
 Attendance is mandatory. Students can miss a maximum of two sessions. Missing more sessions without a justified certificate of absence implies failing the course.
 
-#### 2. Study the mandatory readings before each session.
+### 2. Study the mandatory readings before each session.
 
 *Studying = reading + critical thinking*. Students can find the texts in the materials folder in OLAT.
 
-#### 3. Write two response papers.
+### 3. Write two response papers.
 
 Students must select two sessions and write a short response paper (500-700 words) to the mandatory readings of the session.
 
@@ -76,7 +133,7 @@ The **submission rules** are:
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session04_CANALEJO_1*
 
-#### 4. Conduct one presentation.
+### 4. Conduct one presentation.
 
 Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the **introductory session**.
 
@@ -84,15 +141,15 @@ Presenters must critically re-examine the mandatory readings of the session to l
 
 For more information, see the section **X**. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
 
-#### 5. Serve as discussant of one presentation.
+### 5. Serve as discussant of one presentation.
 
 Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation. The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
 
-#### 6. Participate actively in class.
+### 6. Participate actively in class.
 
 Active engagement involves intervening during the discussion with original ideas and open questions and linking the content of the readings to the debate. Students are also encouraged to bring debates that exceed the content of the session, but it is linked to the general topic of the course.
 
-### Grading policy
+## Grading policy
 
 - 40% of the grade is determined by the response papers.
 
@@ -100,7 +157,7 @@ Active engagement involves intervening during the discussion with original ideas
 
 - 20% of the grade is jointly determined by the quality and quantity of the participation in class and the discussion of the presentation.
 
-### Seminar paper (6 credits)
+## Seminar paper (6 credits)
 
 Students can choose to write a seminar paper to obtain six extra credits. The seminar paper must have between 5500 and 6500 words. Students can choose if they want to write an empirical or a theoretical paper. The topic should be agreed upon between the instructor and the student. To this end, students are asked to write a paper outline of 1-2 pages consisting of the following elements:
 
@@ -120,13 +177,13 @@ The deadline for the submission of the seminar paper is **September 1st 2023**.
 
 Please refer to "The (Pro-)Seminar Paper" section of the guidelines for academic research provided by the Department of Political Science for more details.
 
-## Office hours
+# Office hours
 
 Student meetings can be held during the instructor's **weekly office hours**, scheduled each **Tuesday** (starting from February 21st until June 6th inclusive) **between 13.30 and 15.30**. If any student wants to make use of the office hours, she must book a time slot via e-mail: alvaro.canalejo@unilu.ch. The office is in **room 3.A12**. 
 
 Any student can send an e-mail during office hours without scheduling a meeting for quick questions.
 
-## Guidelines for the presentation 
+# Guidelines for the presentation 
 
 A good presentation should include the following:
 
@@ -144,62 +201,197 @@ Some examples are an inconsistent logic, flawed conceptualizations (e.g., concep
     
 The presentation is evaluated based on its clarity, the understanding of the original readings' concepts, the critical evaluation's depth, the congruency between the critique and the research proposal's aim to solve it, the argumentation and the ability to discuss the discussant's points. For more guidelines, see the guidelines on [Academic Research and Writing of the Department of Political Science.](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf)
     
-## Course schedule
+# Course schedule
 
-### Introductory session
-
+## Introductory session
 
 **22.02.2023.** ***Session 01. Introduction***
 
+No readings.
 
-### Block I. Introduction to parties and party systems
-
+## Block I. Introduction to parties and party systems
 
 **01.03.2023.** ***Session 02. Mapping the terrain: parties, electoral competition and party systems***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["mair1997party"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Mair1998", "Sartori1976"]
+``` 
 
 **08.03.2023.** ***Session 03. The formation of party systems I: the institutional approach***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["benoit_duvergers_2006", "heath_why_2022"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["riker_two-party_1982"]
+``` 
 
 **15.03.2023.** ***Session 04. The formation of party systems II: the sociological approach***
 
+  + Mandatory readings:
 
-### Block II. Party system change in WE
+```{r, echo = FALSE, results="asis"} 
+bib["Lipset1967a"]
+``` 
+      
+  + Suggested readings:
 
+```{r, echo = FALSE, results="asis"} 
+bib["Boix2007"]
+``` 
+
+## Block II. Party system change in WE
 
 **22.03.2023.** ***Session 05. Party system change in WE I: Green parties and the silent revolution***
 
+*Exceptionally, this session will take place the 22nd of March from 13:30 to 15:15 in the room 3.A05.*
+
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["MullerRommel1998", "Inglehart1971"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Muller--Rommel2019"]
+``` 
 
 **22.03.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
 
+*Exceptionally, this session will take place the 22nd of March from 15:15 to 17:00 in the room 3.A05.*
+
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Ignazi1992", "Mudde2014"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Betz1993"]
+``` 
 
 **05.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
 
+  + Mandatory readings:
 
-### Block III. Demand-side and supply-side explanations
+```{r, echo = FALSE, results="asis"} 
+bib["Fiorina1978", "Kriesi2019"]
+``` 
+      
+  + Suggested readings:
 
+```{r, echo = FALSE, results="asis"} 
+bib["Hutter2018"]
+``` 
+
+## Block III. Demand-side and supply-side explanations
 
 **19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage ***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Kriesi2006", "Zollinger2022"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Hooghe2018b", "Bornschier2010"]
+``` 
 
 **26.04.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Oesch2008","Goldberg2020a"]
+``` 
+      
+  + Suggested readings:
+  
+```{r, echo = FALSE, results="asis"} 
+bib["Oesch2018"]
+```   
 
 **03.05.2023.** ***Session 10. Supply-side changes I: the weakening of traditional party ties***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Mair2013"]
+``` 
+
+Only chapters 1 and 3 are mandatory.
+
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Dalton2002", "Spoon2019"]
+``` 
 
 **10.05.2023.** ***Session 11. Supply-side changes II: challenger parties and the issue entrepreneurship model***
 
+  + Mandatory readings:
 
-### Block IV. Implications and empirical applications
+```{r, echo = FALSE, results="asis"} 
+bib["carmines_structure_1986", "Hobolt2012"]
+``` 
+      
+  + Suggested readings:
 
+```{r, echo = FALSE, results="asis"} 
+bib["DeVries2020"]
+``` 
+
+## Block IV. Implications and empirical applications
 
 **17.05.2023.** ***Session 12. Assessing party system change: the ‘freezing hypothesis’ debate***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Mair1993","Chiaramonte2017"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Bartolini1990"]
+``` 
 
 **24.05.2023.** ***Session 13. The consequences of party system change***
 
+  + Mandatory readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["Bischof2019", "Valentim2020a"]
+``` 
+      
+  + Suggested readings:
+
+```{r, echo = FALSE, results="asis"} 
+bib["canalejomolero_disruptive_2023"]
+``` 
 
 **31.05.2023.** ***Session 14. Empirical workshop on electoral volatility***
 
+No readings.
 
