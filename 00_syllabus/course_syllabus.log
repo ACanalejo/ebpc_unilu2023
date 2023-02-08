@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.4)  7 FEB 2023 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.4)  8 FEB 2023 09:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -626,9 +626,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 366.
+(Font)              <8> on input line 373.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 366.
+(Font)              <6> on input line 373.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 29.85403pt, for example:
@@ -689,18 +689,18 @@ Package rerunfilecheck Info: File `course_syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: B375065130CCE37F6056C3C42216D916;4490.
  ) 
 Here is how much of TeX's memory you used:
- 13571 strings out of 478024
- 217788 string characters out of 5838625
- 1861340 words of memory out of 5000000
- 33394 multiletter control sequences out of 15000+600000
+ 13569 strings out of 478024
+ 217761 string characters out of 5838625
+ 1860340 words of memory out of 5000000
+ 33392 multiletter control sequences out of 15000+600000
  582371 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,12n,67p,520b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on course_syllabus.pdf (11 pages, 227098 bytes).
+Output written on course_syllabus.pdf (11 pages, 227214 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
+ 252 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,7 +3,7 @@ title: |
   | Electoral Behavior and Party Competition: Continuity and Change in Western Europe^[This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`]
   | \vspace{15truemm}
 
-subtitle: "Masterseminar Spring 2023 <p> </p> Wednesdays 14:15-16:00 <p> </p> Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on the wednessday 22nd of March from 13:30 to 17:00.]"
+subtitle: "Masterseminar Spring 2023 <p> </p> Wednesdays 14:15-16:00 <p> </p> Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on Wednesday, 22nd March, from 13:30 to 17:00.]"
 
 bibliography: ../00_bibliography/epbc_syllabus.bib
 
@@ -129,7 +129,7 @@ The **submission rules** are:
 
 - The deadline for submitting the response paper is the **Sunday before the corresponding session at noon (12:00)**. 
 
-- Students cannot send papers for *session 1* and *session 14*, which are free-readings sessions.
+- Students cannot send papers for *session 01* and *session 14*, which are free-readings sessions. See [Course schedule].
 
 - One of the response papers must be submitted for a session before the **spring break (10-16th April)** and one afterwards.
 
@@ -139,11 +139,13 @@ The **submission rules** are:
 
 ### 4. Conduct one presentation.
 
-Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the **introductory session**.
+Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the [Introductory session].
 
 Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare.
 
-For more information, see the section **X**. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
+For more information, see the section [Guidelines for the presentation]. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
+
+*Sessions 01, 02 and 14* are free from presentations.
 
 ### 5. Serve as discussant of one presentation.
 
@@ -179,11 +181,11 @@ The deadline for the submission of the paper outline is **May 1st 2023**.
 
 The deadline for the submission of the seminar paper is **September 1st 2023**.
 
-Please refer to "The (Pro-)Seminar Paper" section of the guidelines for academic research provided by the Department of Political Science for more details.
+Please refer to "The (Pro-)Seminar Paper" section of the guidelines for [Academic Research and Writing of the Department of Political Science.](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf) for more details.
 
 # Office hours
 
-Student meetings can be held during the instructor's **weekly office hours**, scheduled each **Tuesday** (starting from February 21st until June 6th inclusive) **between 13.30 and 15.30**. If any student wants to make use of the office hours, she must book a time slot via e-mail: alvaro.canalejo@unilu.ch. The office is in **room 3.A12**. 
+Student meetings can be held during the instructor's **weekly office hours**, scheduled each **Tuesday** (starting from February 21st until June 6th inclusive) ***between 13.30 and 15.30**. If any student wants to make use of the office hours, she must book a time slot via e-mail: alvaro.canalejo@unilu.ch. The office is in **room 3.A12**. 
 
 Any student can send an e-mail during office hours without scheduling a meeting for quick questions.
 
@@ -197,7 +199,7 @@ A good presentation should include the following:
 
 3. A critique of the argument or the research design. 
 
-Some examples are an inconsistent logic, flawed conceptualizations (e.g., concepts that do not travel well across contexts), limited external validity (e.g., results that do not apply in other contexts), limited internal validity (e.g., poorly identified causal relationship, for example, due to omitted variables), limited relevance, etc.
+    - Some examples are an inconsistent logic, flawed conceptualizations (e.g., concepts that do not travel well across contexts), limited external validity (e.g., results that do not apply in other contexts), limited internal validity (e.g., poorly identified causal relationship, for example, due to omitted variables), limited relevance, etc.
 
 4. Propose a feasible research design to overcome these limitations or build upon them. 
 
