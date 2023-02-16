@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 
-# Hidden files and folders
+### Hidden files and folders ###
 
 **01_session/**
 **02_session/**
