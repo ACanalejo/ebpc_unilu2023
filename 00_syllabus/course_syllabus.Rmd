@@ -309,7 +309,7 @@ bib["Hutter2018"]
 
 ## Block III. Demand-side and supply-side explanations
 
-**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage ***
+**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
 
   + Mandatory readings:
 

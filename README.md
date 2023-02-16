@@ -179,7 +179,7 @@ The presentation is evaluated based on its clarity, the understanding of the ori
 ### Block III. Demand-side and supply-side explanations
 
 
-**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage ***
+**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
 
 
 **26.04.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
