@@ -1,9 +1,11 @@
+### Hidden files ###
+
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-### Hidden files and folders ###
+### Hidden folders ###
 
 **01_session/**
 **02_session/**
@@ -19,4 +21,5 @@
 **12_session/**
 **13_session/**
 **14_session/**
+
 
