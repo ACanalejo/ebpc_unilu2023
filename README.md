@@ -146,7 +146,7 @@ The presentation is evaluated based on its clarity, the understanding of the ori
     
 ## Course schedule
 
-### Introductory session
+### Introductory to the course
 
 
 **22.02.2023.** ***Session 01. Introduction***

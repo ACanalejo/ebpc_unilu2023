@@ -5,7 +5,7 @@ title: |
 
 subtitle: "Masterseminar Spring 2023 <p> </p> Wednesdays 14:15-16:00 <p> </p> Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on Wednesday, 22nd March, from 13:30 to 17:00.]"
 
-bibliography: ../00_bibliography/epbc_syllabus.bib
+bibliography: ../00_bibliography/epbc.bib
 
 csl: ../00_bibliography/apa.csl
 
@@ -63,7 +63,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Setting bibliography settings
 library(RefManageR)
-bib <- ReadBib("../00_bibliography/epbc_syllabus.bib") # assign .bib file
+bib <- ReadBib("../00_bibliography/epbc.bib") # assign .bib file
 myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
 ```
 
@@ -209,7 +209,7 @@ The presentation is evaluated based on its clarity, the understanding of the ori
     
 # Course schedule
 
-## Introductory session
+## Introduction to the course
 
 **22.02.2023.** ***Session 01. Introduction***
 
