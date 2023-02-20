@@ -3,7 +3,7 @@ title: |
   | Electoral Behavior and Party Competition: Continuity and Change in Western Europe^[This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`]
   | \vspace{15truemm}
 
-subtitle: "Masterseminar Spring 2023 <p> </p> Wednesdays 14:15-16:00 <p> </p> Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on Wednesday, 22nd March, from 13:30 to 17:00.]"
+subtitle: "Masterseminar Spring 2023 \\\n Wednesdays 14:15-16:00 \\\n Classroom HS12^[Sessions 5 and 6 will take place in room 3.A05 on Wednesday, 22nd March, from 13:30 to 17:00.]"
 
 bibliography: ../00_bibliography/epbc.bib
 
@@ -35,7 +35,7 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \fancypagestyle{plain}{\pagestyle{fancy}}
-- \fancyhead[LE,RO]{Álvaro Canalejo-Molero, MA \linebreak \href{mailto:alvaro.canalejo@unilu.ch}{\tt alvaro.canalejo@unilu.ch}}
+- \fancyhead[LE,RO]{Álvaro Canalejo-Molero, MA}
 - \fancyhead[RE,LO]{University of Lucerne}
 
 
@@ -139,7 +139,7 @@ The **submission rules** are:
 
 ### 4. Conduct one presentation.
 
-Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the [Introductory session].
+Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the session [Introduction to the course].
 
 Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare.
 
@@ -185,7 +185,7 @@ Please refer to "The (Pro-)Seminar Paper" section of the guidelines for [Academi
 
 # Office hours
 
-Student meetings can be held during the instructor's **weekly office hours**, scheduled each **Tuesday** (starting from February 21st until June 6th inclusive) ***between 13.30 and 15.30**. If any student wants to make use of the office hours, she must book a time slot via e-mail: alvaro.canalejo@unilu.ch. The office is in **room 3.A12**. 
+Student meetings can be held during the instructor's **weekly office hours**, scheduled each **Tuesday** (starting from February 21st until June 6th inclusive) **between 13.30 and 15.30**. If any student wants to make use of the office hours, she must book a time slot via e-mail: alvaro.canalejo@unilu.ch. The office is in **room 3.A12**. 
 
 Any student can send an e-mail during office hours without scheduling a meeting for quick questions.
 
@@ -263,7 +263,7 @@ bib["Boix2007"]
 
 **22.03.2023.** ***Session 05. Party system change in WE I: Green parties and the silent revolution***
 
-*Exceptionally, this session will take place the 22nd of March from 13:30 to 15:15 in the room 3.A05.*
+*Exceptionally, this session will take place the 22nd of March from 14:00 to 15:45 in the room 3.A05.*
 
   + Mandatory readings:
 
@@ -279,7 +279,7 @@ bib["Muller--Rommel2019"]
 
 **22.03.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
 
-*Exceptionally, this session will take place the 22nd of March from 15:15 to 17:00 in the room 3.A05.*
+*Exceptionally, this session will take place the 22nd of March from 15:45 to 17:30 in the room 3.A05.*
 
   + Mandatory readings:
 
