@@ -1,0 +1,317 @@
+---
+title: "Introduction"
+subtitle: "Session 01"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 2
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: true
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+**Table of contents**
+
+- [-@sec-introduction] Introduction
+- [-@sec-course_intro] The course
+- [-@sec-guidelines] Guidelines
+
+## Introduction {#sec-introduction}
+
+**About me**
+
+::: incremental
+-   Postdoctoral researcher in the project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/#section=c122045)
+
+-   Finishing my PhD in Political and Social Sciences at the [EUI](https://www.eui.eu/en/home)
+
+-   MA in Social Sciences at the University Carlos III of Madrid and BA at the University Pablo de Olavide, in Seville (I am originally from [Córdoba](https://www.architecturaldigest.com/story/cordoba-spain-has-most-unesco-world-heritage-sites))
+
+-   Research interests: political behaviour, comparative party politics, quantitative methods
+
+-   In UniLu only since December, but I taught a [similar course](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022) here last year :blush:
+
+-   You can find more information about me in [my personal website](https://acanalejo.github.io/)!
+:::
+
+---
+
+**Now, what about you** :grey_question:
+
+::: incremental
+-   What is your name?
+
+-   What is your background?
+
+-   Why did you decide to take this course and what do you expect from it?
+:::
+
+## The course {#sec-course_intro}
+
+*Electoral Behaviour and Party Competition: Continuity and Change in WE*
+
+::: incremental
+-   So why this name?
+
+1.  It is a general course on political behaviour
+
+2.  It is also a general course on party competition
+
+3.  Specifically, it looks at the intersection of the two
+
+    -   Because of that, it may lack some content on political behaviour beyond parties (e.g., media effects)
+
+    -   And it might also lacks some content on parties beyond political competition (e.g., party organization)
+
+4.  Instead, because theories may always sound a little bit disconnected from reality at a first sight, it attempts to link voters and parties through the comparison of **Western European (WE) party systems, their patterns of continuity and change**
+:::
+
+------------------------------------------------------------------------
+
+::: {style="background-color: aquamarine"}
+
+**QUESTION**
+
+You might know that the Swiss federal elections are close, **do you know of recent electoral changes in Switzerland?**
+
+:::
+
+![](curia.png){.r-stretch}
+
+---
+
+**...and in Germany?**
+
+![](bundestag.png){.r-stretch}
+
+---
+
+::: {style="text-align: center"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+***This is the kind of things we will try to understand*** :boom: :exclamation:
+
+:::
+
+---
+
+### Schedule
+
+<br>
+
+***01. Introduction*** (22.02.2023)
+
+<br>
+
+#### Block I. Parties and party systems
+
+***02. Mapping the terrain: parties, electoral competition and party systems*** (01.03.2023)
+
+***03. The formation of party systems I: the institutional approach*** (08.03.2023)
+
+***04. The formation of party systems II: the sociological approach*** (15.03.2023)
+
+<br>
+
+#### Block II. Party system change in WE
+
+***05. Party system change in WE I: Green parties and the silent revolution*** (22.03.2023)
+
+***06. Party system change in WE II: New far right parties and the silent counter-revolution*** (22.03.2023)
+
+***07. Party system change III: Economic voting after the Great Recession*** (05.04.2023)
+
+- *Exceptionally, sessions 5 and 6 will take place the 22nd of March from 13:30 to 17:00 in the room 3.A05.*
+
+<br>
+
+#### Block III. Explanations
+
+***08. Demand-side changes I: the emergence of a cultural cleavage*** (19.04.2023)
+
+***09. Demand-side changes II: old cleavages in the XXIst century*** (26.04.2023)
+
+***10. Supply-side changes I: the weakening of traditional party ties*** (03.05.2023)
+
+***11. Supply-side changes II: challenger parties and the issue entrepreneurship model*** (10.05.2023)
+
+<br>
+
+#### Block IV. Implications and empirical applications
+
+***12. Assessing party system change: the ‘freezing hypothesis’ debate*** (17.05.2023)
+
+***13. The consequences of party system change*** (24.05.2023)
+
+***14. Empirical workshop on electoral volatility*** (31.05.2023)
+
+
+## Guidelines {#sec-guidelines}
+
+All the important guidelines are in the [syllabus](https://github.com/ACanalejo/ebpc_unilu2023/tree/main/00_syllabus), which is nested in the [official website of the course](https://github.com/ACanalejo/ebpc_unilu2023).
+
+You can also find the materials in [OLAT](https://lms.uzh.ch/dmz/).
+
+<br>
+<br>
+
+
+::: incremental
+
+- Before the next session:
+
+    1. ***PLEASE, read the syllabus carefully*** :notebook_with_decorative_cover:
+
+    2. Get back to me if you have any doubts!
+
+    3. I encourage you to use the discussion forum to discuss doubts between you too :sparkles:
+
+:::
+
+---
+
+### Teaching policy
+
+::: incremental
+
+- This course is designed as a ***seminar***, **not a lecture!**
+
+- Thus, I expect you to have read the **mandatory readings** and to **participate**
+
+- Ideally, I will introduce the topic and guide the discussion, but you should actively pursue the debate
+
+:::
+
+---
+
+### Evaluation
+
+::: incremental
+
+1. **Attendance**
+
+    - Max. missing two sessions
+
+2. **Mandatory readings**
+
+    - *Studying = reading + critical thinking*
+
+3. **Two response papers**
+
+    - *Not a summary!*
+    
+    - 500-700 words
+    
+    - Deadline: Sunday before the session
+    
+    - One before the spring break (10-16th April) and one after
+    
+4. **Presentation**
+
+    - See more information in the syllabus, section *Guidelines for the presentation*
+    
+5. **Discussion of at least one presentation**
+
+6. **Active participation**
+
+:::
+
+---
+
+### Grading policy
+
+- **40% response papers**
+
+- **40% presentation**
+
+- **20% participation** (including the discussion of the ppt)
+
+---
+
+### Seminar paper
+
+- 6 extra credits
+
+- Between 5500 and 6500 words
+
+- Outline submission deadline: **May 1st 2023**
+
+- Paper submission deadline: **September 1st 2023**
+
+- More in "The (Pro-)Seminar Paper" section of the guidelines for [Academic Research and Writing of the Department of Political Science](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf).
+
+---
+
+### Office hours
+
+- Weekly office hours: **Tuesdays 13.30-15.30**
+
+- **Room 3.A12**
+
+- E-mail: alvaro.canalejo@unilu.ch
+
+---
+
+::: {style="text-align: center; background-color: aquamarine"}
+
+**QUESTIONS**
+
+:::
+
+
+![](cat_question.png){.r-stretch}
+
+
+---
+
+::: {style="text-align: center"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**THANKS!**
+
+<br>
+<br>
+
+:wave: :wave: :wave: 
+
+
+:::
