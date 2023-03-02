@@ -133,7 +133,7 @@ The **submission rules** are:
 
 - One of the response papers must be submitted for a session before the **spring break (10-16th April)** and one afterwards.
 
-- The response papers cannot be sent for the same session as the student's presentation.
+- The response papers cannot be sent for the same session as the student's presentation or discussion.
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session04_CANALEJO_1*
 

@@ -1,0 +1,493 @@
+---
+title: "Parties, electoral competition and party systems"
+subtitle: "Session 02"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+
+**Table of contents**
+
+[@sec-part1]
+
+[-@sec-introduction] Introduction
+
+[-@sec-parties] Understanding political parties
+
+[-@sec-competition] Understanding electoral competition
+
+[-@sec-systems] Understanding party systems
+
+<br>
+
+[@sec-part2]
+
+[-@sec-technical] Technical matters
+
+# Part I {#sec-part1}
+
+## Introduction {#sec-introduction}
+
+::: incremental
+-   Overview of the readings
+
+    -   Opinions
+
+    -   Questions?
+
+-   Notes on [reading academic articles](https://subjectguides.york.ac.uk/critical/articles)
+:::
+
+------------------------------------------------------------------------
+
+### Structure of this session
+
+::: incremental
+
+-   Understanding political parties
+
+- Understanding electoral competition
+
+-   Understanding party systems
+
+-   Technical matters on the organization of the course
+:::
+
+## Understanding political parties {#sec-parties}
+
+-   What are political parties?
+
+
+![Figure 1: A political *catdidate.*](catdidate.png){fig-align="left"}
+
+---
+
+### Understanding political parties
+
+::: incremental
+-   **Normatively**, they are channels of expressions. That is, they are an *instrument*, or an agency, *for representing the people* by *expressing their demands* [@Sartori1976, p. 24]
+
+-   **Descriptively**, a political party is an organization that *competes for votes in elections* to *achieve office* with the aim of *implementing their preferred policies* [adapted from @strom_behavioral_1990]
+:::
+
+------------------------------------------------------------------------
+
+### Three behavioral assumptions [@strom_behavioral_1990]:
+
+::: incremental
+1.  Vote-seeking
+
+2.  Office-seeking
+
+3.  Policy-seeking
+:::
+
+::: {.fragment .fade-up}
+→ Do all the parties fit these criteria?
+:::
+
+------------------------------------------------------------------------
+
+### The classification of political parties
+
+Let's play a game!
+
+::: incremental
+
+- Let's shuffle in groups of two
+
+- Find a match with someone from another country (if possible)
+
+- You have three minutes to group political parties of your countries together
+
+- Then, explain why you did it!
+
+:::
+
+---
+
+### The classification of political parties
+
+Possible criteria [@Mair1998]:
+
+::: incremental
+1.  Names
+
+2.  Ideology
+
+3.  Shared origins [(eg. socialist parties)]{style="color:grey"}
+
+4.  Ascription to transnational federations [(eg. European federations)]{style="color:grey"}
+:::
+
+::: {.fragment .fade-up}
+→ Alternative or complementary criteria?
+:::
+
+---
+
+### The party families [@Camia2012]
+
+::: incremental
+1.  Socialist and communist parties
+
+2.  Religious and people's parties
+
+3.  Agrarian parties [(eg...)]{style="color:grey"}
+
+4.  Regionalist/independentist parties [(eg...)]{style="color:grey"}
+:::
+
+::: {.fragment .fade-up}
+→ Can you think of other party families?
+:::
+
+------------------------------------------------------------------------
+
+### The classification of political parties
+
+::: incremental
+Why is important to classify parties :grey_question:
+
+-   It helps **to answer questions!**
+:::
+
+::: {.fragment .fade-up}
+→ Therefore, the **question** should guide the selection of the classification criterion
+:::
+
+::: incremental
+-  Most commonly: [**ideology**]{style="color:red"}
+:::
+
+## Understanding electoral competition {#sec-competition}
+
+Downs [-@Downs1957] introduced the spatial models of electoral competition 
+
+::: incremental
+-  Why **spatial**?
+    + Mathematically, parties compete in dimensions treated as a vector space
+- What is the main **dimension of competition**?
+    + [L]{style="color:red"}-[R]{style="color:blue"}
+:::
+
+::: {.fragment .fade-up}
+[0]{style="color:red"}------------[5]{style="color:gray"}------------[10]{style="color:blue"}
+:::
+
+---
+
+### Understanding electoral competition
+
+::: incremental
+- This framework help to understand patterns of **interaction between parties**
+- Important implications for **electoral behaviour**
+    + We will see more over the course!
+:::
+
+
+## Understanding party systems {#sec-systems}
+
+- What are party systems?
+
+::: {.fragment .fade-up}
+→ The patterned interaction between parties [@mair1997party]
+:::
+
+---
+
+### Understanding party systems
+
+Typologies:
+
+::: incremental
+-   Duverger (1954)
+
+-   Dahl (1966)
+
+-   Blondel (1968)
+
+-   Rokkan (1968)
+:::
+
+::: {.fragment .fade-up}
+→ **Sartori** [-@Sartori1976] goes beyond the simple rule of aggregation to tap into (some of) the components that define the patterns of competition
+:::
+
+------------------------------------------------------------------------
+
+![Figure 2: Party systems typologies. Originally in @mair1997party](ps_typology.png){fig-align="left"}
+
+------------------------------------------------------------------------
+
+### The classification of party systems [@Sartori1976]
+
+::: incremental
+-   Two criteria:
+
+    1.  Number of parties
+
+        → How do you measure the number of parties?
+
+    2.  Ideological polarization
+
+        → What does it mean?
+:::
+
+::: {.fragment .fade-up}
+[0]{style="color:red"}------------[5]{style="color:gray"}------------[10]{style="color:blue"}
+:::
+
+---
+
+### The classification of party systems [@Sartori1976]
+
+::: incremental
+
+-   Ideal types:
+
+    1.  Two-party systems [(eg., UK until 1990s)]{style="color:grey"}
+    2.  Moderate pluralism [(e.g., Denmark)]{style="color:grey"}
+    3.  Polarized pluralism [(e.g., Italy until 1990s)]{style="color:grey"}
+    4.  Predominant party-system [(e.g., Ireland until recently)]{style="color:grey"}
+:::
+
+------------------------------------------------------------------------
+
+### Implications for electoral competition
+
+::: incremental
+-   Implications for patterns of alternation in government
+
+    -   Prevailing pattern of alternation [(wholesome, partial, non-alternation)]{style="color:grey"}
+    -   Stability [(innovation vs familiarity)]{style="color:grey"}
+    -   Governing parties [(insiders vs outsiders)]{style="color:grey"}
+
+-   Two ideal types:
+
+    1.  **Open** competition
+    2.  **Closed** competition
+:::
+
+------------------------------------------------------------------------
+
+##  {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: {style="margin-top: 100px;"}
+"none the less, any explanation of the degree of closure of any given structure of competition must necessarily focus particular attention on the strategies of the parties themselves." [@mair1997party p. 213]
+:::
+
+##  {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: {style="margin-top: 200px;"}
+"none the less, any explanation of the degree of closure of any given structure of competition must necessarily focus particular attention on **the strategies of the parties** themselves." [@mair1997party p. 213]
+:::
+
+------------------------------------------------------------------------
+
+### Implications for electoral outcomes
+
+::: incremental
+
+- *TO SUMMARIZE*
+
+    → Important distinction between political **parties** and **party systems** [(**agency-based** vs **system-based** approaches)]{style="color:grey"}
+
+-   What are the implications of this distinction for **party system change**?
+:::
+
+::: {.fragment .fade-up}
+Electoral change $\not=$ party system change
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+[**Why?**]{style="color:red"}
+:::
+:::
+
+::: {.fragment .fade-up}
+→ Altering parties and the number/identity of parties *vs* **altering the interaction patterns between parties**
+:::
+
+---
+
+### Other implications
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ What [other implications]{style="color:red"} of party systems [beyond the electoral arena]{style="color:red"}?
+:::
+:::
+
+::: incremental
+-   Think of **voters**
+
+-   Think of **policies**
+
+-   Think of **democracy** (i.e., *the polity*)
+:::
+
+------------------------------------------------------------------------
+
+### What are the problems with Sartori's typology?
+
+::: incremental
+-   Emerging new competition patterns [(difficult to accommodate within his categories)]{style="color:grey"}
+
+-   No insights about multidimensional competition patterns [(i.e., what happens if there is more than left and right?)]{style="color:grey"}
+
+-   Other potential problems :grey_question:
+:::
+
+------------------------------------------------------------------------
+
+### Conclusion
+
+::: incremental
+
+-   Distinction between political **parties** and **party systems** [(although mutually dependent)]{style="color:grey"}
+
+-   Distinction between **electoral change** and **party system change** [(although mutually dependent)]{style="color:grey"}
+
+- **Party strategies** and the **structure of the party systems** interact and impact ***electoral competition***
+:::
+
+------------------------------------------------------------------------
+
+### Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+# Part II {#sec-part2}
+
+## Technical matters {#sec-technical}
+
+-   Registration in the course:
+
+    1.  Studiportal (grades, attendance, etc.)
+    2.  OLAT (materials and communication)
+
+<br>
+
+-   Attendance control
+
+<br>
+
+-   Organization of the presentations
+
+##  {.smaller}
+
+```{r}
+
+# Loading libraries
+library(readr)
+library(tidyverse)
+library(DT)
+library(knitr)
+
+# Creating vectors
+Session <- c("Session 03",
+              "Session 04",
+              "Session 05",
+              "Session 06",
+              "Session 07",
+              "Session 08",
+              "Session 09",
+              "Session 10",
+              "Session 11",
+              "Session 12",
+              "Session 13")
+Title <- c("The formation of party systems I: the institutional approach",
+              "The formation of party systems II: the sociological approach",
+              "Party system change in WE I: Green parties and the silent revolution",
+              "Party system change in WE II: New far right parties and the silent counter-revolution",
+              "Party system change III: Economic voting after the Great Recession",
+              "Demand-side changes I: the emergence of a cultural cleavage",
+              "Demand-side changes II: old cleavages in the XXIth century",
+              "Supply-side changes I: the weakening of traditional party ties",
+              "Supply-side changes II: challenger parties and the issue entrepreneurship model",
+              "Assessing party system change: the 'freezing hypothesis' debate",
+              "The consequences of party system change")
+Presenter <- c("   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ",
+               "   ")
+Discussant <- c("   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ",
+                "   ")
+
+## Pass list in this order (check if someone is missing)
+Student <- c("Samuel Häring",
+                "Martin Thomas Illi",
+                "Liam O'Brien",
+                "Om Omo",
+                "Severine Peer",
+                "Micheline Perler",
+                "Daniel Rose",
+                "Samuel David Steiner Halter",
+                "Irina Wais",
+                "Leon Gallagher",
+                "George O'Carrol")
+
+# Binding vectors in a dataset
+sessions <- data.frame(Session, Title, Presenter, Discussant)
+
+# Displaying the table
+sessions %>% datatable(editable = "cell",
+                       class = 'cell-border stripe')
+
+```
+
+# References
