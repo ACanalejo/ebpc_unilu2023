@@ -141,7 +141,7 @@ The **submission rules** are:
 
 Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the session [Introduction to the course].
 
-Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare.
+Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare. **The presentation should last between 15 and 25 minutes ($\approx$ 20 minutes)**.
 
 For more information, see the section [Guidelines for the presentation]. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
 
@@ -149,7 +149,7 @@ For more information, see the section [Guidelines for the presentation]. The use
 
 ### 5. Serve as discussant of one presentation.
 
-Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation. The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
+Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation ($\approx$ **5 minutes**). The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
 
 ### 6. Participate actively in class.
 
