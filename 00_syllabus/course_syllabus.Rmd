@@ -141,7 +141,7 @@ The **submission rules** are:
 
 Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the session [Introduction to the course].
 
-Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare. **The presentation should last between 15 and 25 minutes ($\approx$ 20 minutes)**.
+Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare. The file with the presentation slides can be in the preferred format of the presenter (e.g., ppt, pdf, etc.). The title should include the session's number followed by the student's surname in capital letters. For example: *session06_CANALEJO*. **The presentation should last between 15 and 25 minutes ($\approx$ 20 minutes)**.
 
 For more information, see the section [Guidelines for the presentation]. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
 
