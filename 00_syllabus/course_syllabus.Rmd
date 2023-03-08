@@ -149,9 +149,7 @@ For more information, see the section [Guidelines for the presentation]. The use
 
 ### 5. Serve as discussant of one presentation.
 
-Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation ($\approx$ **5 minutes**). The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
-
-Additionally, it should bring questions (at least two) for the rest of students to discuss.
+Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenter(s) in advance and provide feedback after the presentation ($\approx$ **5 minutes**). The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design. The questions of the discussant should serve to guide the discussion among the presenter and the rest of the audience, but the audience can (should) raise their own questions too.
 
 ### 6. Participate actively in class.
 
