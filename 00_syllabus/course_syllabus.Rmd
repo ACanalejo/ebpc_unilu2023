@@ -151,6 +151,8 @@ For more information, see the section [Guidelines for the presentation]. The use
 
 Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation ($\approx$ **5 minutes**). The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
 
+Additionally, it should bring questions (at least two) for the rest of students to discuss.
+
 ### 6. Participate actively in class.
 
 Active engagement involves intervening during the discussion with original ideas and open questions and linking the content of the readings to the debate. Students are also encouraged to bring debates that exceed the content of the session, but it is linked to the general topic of the course.
