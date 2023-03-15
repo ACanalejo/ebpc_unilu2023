@@ -247,7 +247,9 @@ bib["benoit_duvergers_2006", "heath_why_2022"]
 bib["riker_two-party_1982"]
 ``` 
 
-**15.03.2023.** ***Session 04. The formation of party systems II: the sociological approach***
+**22.03.2023.** ***Session 04. The formation of party systems II: the sociological approach***
+
+*Exceptionally, this session will take place the 22nd of March from 14:00 to 15:45 in the room 3.A05.*
 
   + Mandatory readings:
 
@@ -279,9 +281,7 @@ bib["MullerRommel1998", "Inglehart1971"]
 bib["Muller--Rommel2019"]
 ``` 
 
-**22.03.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
-
-*Exceptionally, this session will take place the 22nd of March from 15:45 to 17:30 in the room 3.A05.*
+**05.04.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
 
   + Mandatory readings:
 
@@ -295,7 +295,7 @@ bib["Ignazi1992", "Mudde2014"]
 bib["Betz1993"]
 ``` 
 
-**05.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
+**19.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
 
   + Mandatory readings:
 
@@ -311,7 +311,7 @@ bib["Hutter2018"]
 
 ## Block III. Demand-side and supply-side explanations
 
-**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
+**26.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
 
   + Mandatory readings:
 
@@ -325,7 +325,7 @@ bib["Kriesi2006", "Zollinger2022"]
 bib["Hooghe2018b", "Bornschier2010"]
 ``` 
 
-**26.04.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
+**03.05.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
 
   + Mandatory readings:
 
@@ -339,7 +339,7 @@ bib["Oesch2008","Goldberg2020a"]
 bib["Oesch2018"]
 ```   
 
-**03.05.2023.** ***Session 10. Supply-side changes I: the weakening of traditional party ties***
+**10.05.2023.** ***Session 10. Supply-side changes I: the weakening of traditional party ties***
 
   + Mandatory readings:
 
@@ -355,7 +355,7 @@ Only chapters 1 and 3 are mandatory.
 bib["Dalton2002", "Spoon2019"]
 ``` 
 
-**10.05.2023.** ***Session 11. Supply-side changes II: challenger parties and the issue entrepreneurship model***
+**17.05.2023.** ***Session 11. Supply-side changes II: challenger parties and the issue entrepreneurship model***
 
   + Mandatory readings:
 
@@ -371,7 +371,7 @@ bib["DeVries2020"]
 
 ## Block IV. Implications and empirical applications
 
-**17.05.2023.** ***Session 12. Assessing party system change: the ‘freezing hypothesis’ debate***
+**24.05.2023.** ***Session 12. Assessing party system change: the ‘freezing hypothesis’ debate***
 
   + Mandatory readings:
 
@@ -385,7 +385,7 @@ bib["Mair1993","Chiaramonte2017"]
 bib["Bartolini1990"]
 ``` 
 
-**24.05.2023.** ***Session 13. The consequences of party system change***
+**31.05.2023.** ***Session 13. The consequences of party system change***
 
   + Mandatory readings:
 
@@ -399,7 +399,7 @@ bib["Bischof2019", "Valentim2020a"]
 bib["canalejomolero_disruptive_2023"]
 ``` 
 
-**31.05.2023.** ***Session 14. Empirical workshop on electoral volatility***
+**TBC** ***Session 14. Empirical workshop on electoral volatility***
 
 No readings.
 

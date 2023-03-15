@@ -68,25 +68,27 @@ The **submission rules** are:
 
 - The deadline for submitting the response paper is the **Sunday before the corresponding session at noon (12:00)**. 
 
-- Students cannot send papers for *session 1* and *session 14*, which are free-readings sessions.
+- Students cannot send papers for *session 01* and *session 14*, which are free-readings sessions. See [Course schedule].
 
 - One of the response papers must be submitted for a session before the **spring break (10-16th April)** and one afterwards.
 
-- The response papers cannot be sent for the same session as the student's presentation.
+- The response papers cannot be sent for the same session as the student's presentation or discussion.
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session04_CANALEJO_1*
 
 #### 4. Conduct one presentation.
 
-Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the **introductory session**.
+Presentations can be done alone or in groups of two or three students, depending on the number of students taking the course. The schedule will be decided upon the session [Introduction to the course].
 
-Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare.
+Presenters must critically re-examine the mandatory readings of the session to locate a troubling or unsatisfactory element, then propose a solution including a theoretical motivation and a feasible research design. A discussion of the proposal will follow the presentation. Presenters must upload the slides of the presentation **at least 24 hours before the presentation** to the *Presentations* folder in OLAT to allow the discussant to prepare. The file with the presentation slides can be in the preferred format of the presenter (e.g., ppt, pdf, etc.). The title should include the session's number followed by the student's surname in capital letters. For example: *session06_CANALEJO*. **The presentation should last between 15 and 25 minutes ($\approx$ 20 minutes)**.
 
-For more information, see the section **X**. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
+For more information, see the section [Guidelines for the presentation]. The use of this presentation to develop an independent research project is encouraged (e.g. future seminar papers or thesis).
+
+*Sessions 01, 02 and 14* are free from presentations.
 
 #### 5. Serve as discussant of one presentation.
 
-Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenters in advance and provide feedback after the presentation. The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design.
+Each presentation will be assigned a discussant. The discussant must study the research proposal of the presenter(s) in advance and provide feedback after the presentation ($\approx$ **5 minutes**). The feedback must be constructive. It should be directed to clarify the proposal's main concepts and propose ways to improve the design. The questions of the discussant should serve to guide the discussion among the presenter and the rest of the audience, but the audience can (should) raise their own questions too.
 
 #### 6. Participate actively in class.
 
@@ -118,7 +120,7 @@ The deadline for the submission of the paper outline is **May 1st 2023**.
 
 The deadline for the submission of the seminar paper is **September 1st 2023**.
 
-Please refer to "The (Pro-)Seminar Paper" section of the guidelines for academic research provided by the Department of Political Science for more details.
+Please refer to "The (Pro-)Seminar Paper" section of the guidelines for [Academic Research and Writing of the Department of Political Science.](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf) for more details.
 
 ## Office hours
 
@@ -136,7 +138,7 @@ A good presentation should include the following:
 
 3. A critique of the argument or the research design. 
 
-Some examples are an inconsistent logic, flawed conceptualizations (e.g., concepts that do not travel well across contexts), limited external validity (e.g., results that do not apply in other contexts), limited internal validity (e.g., poorly identified causal relationship, for example, due to omitted variables), limited relevance, etc.
+    - Some examples are an inconsistent logic, flawed conceptualizations (e.g., concepts that do not travel well across contexts), limited external validity (e.g., results that do not apply in other contexts), limited internal validity (e.g., poorly identified causal relationship, for example, due to omitted variables), limited relevance, etc.
 
 4. Propose a feasible research design to overcome these limitations or build upon them. 
 
@@ -161,7 +163,7 @@ The presentation is evaluated based on its clarity, the understanding of the ori
 **08.03.2023.** ***Session 03. The formation of party systems I: the institutional approach***
 
 
-**15.03.2023.** ***Session 04. The formation of party systems II: the sociological approach***
+**22.03.2023.** ***Session 04. The formation of party systems II: the sociological approach***
 
 
 ### Block II. Party system change in WE
@@ -170,36 +172,36 @@ The presentation is evaluated based on its clarity, the understanding of the ori
 **22.03.2023.** ***Session 05. Party system change in WE I: Green parties and the silent revolution***
 
 
-**22.03.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
+**05.04.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
 
 
-**05.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
+**19.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
 
 
 ### Block III. Demand-side and supply-side explanations
 
 
-**19.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
+**26.04.2023.** ***Session 08. Demand-side changes I: the emergence of a cultural cleavage***
 
 
-**26.04.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
+**03.05.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
 
 
-**03.05.2023.** ***Session 10. Supply-side changes I: the weakening of traditional party ties***
+**10.05.2023.** ***Session 10. Supply-side changes I: the weakening of traditional party ties***
 
 
-**10.05.2023.** ***Session 11. Supply-side changes II: challenger parties and the issue entrepreneurship model***
+**17.05.2023.** ***Session 11. Supply-side changes II: challenger parties and the issue entrepreneurship model***
 
 
 ### Block IV. Implications and empirical applications
 
 
-**17.05.2023.** ***Session 12. Assessing party system change: the ‘freezing hypothesis’ debate***
+**24.05.2023.** ***Session 12. Assessing party system change: the ‘freezing hypothesis’ debate***
 
 
-**24.05.2023.** ***Session 13. The consequences of party system change***
+**31.05.2023.** ***Session 13. The consequences of party system change***
 
 
-**31.05.2023.** ***Session 14. Empirical workshop on electoral volatility***
+**TBC** ***Session 14. Empirical workshop on electoral volatility***
 
 
