@@ -1,0 +1,415 @@
+---
+title: "PS change in WE I: Green parties and the silent revolution"
+subtitle: "Session 05"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-frozen]. The frozen hypothesis
+
+[-@sec-nsm]. Political change in the 60s/70s: the New Social Movements
+
+[-@sec-silent]. The Silent Revolution
+
+[-@sec-green]. The rise of the Green parties in WE
+
+[-@sec-current]. Current trends
+
+[-@sec-org]. Technical issues about the course
+
+# Introduction  {#sec-introduction}
+
+## Political news
+
+- [The urban-rural divide is back in the Netherlands!](https://twitter.com/EuropeElects/status/1636681727585185798)
+
+- [More on this...](https://twitter.com/mrooduijn/status/1635937038661832705?s=46&t=4Ap52tcZofXGirwWNE_DGQ)
+
+## Doubts and questions
+
+::: {.fragment .fade-in}
+- Last session
+:::
+
+::: {.fragment .fade-in}
+- The readings of this week
+:::
+
+
+# The frozen hypothesis {#sec-frozen}
+
+---
+
+Lipset and Rokkan [-@Lipset1967a] argued that despite years of war and dictatorship, **Western European party systems in the 1960s** largely reflected the **cleavage structures of the 1920s** 
+
+<br>
+
+::: {.fragment .fade-in}
+For example, think of the dominance of Socialist and Christian Democratic parties [(i.e., **class cleavage**)]{style="color:grey"}
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [To what extent do you think **party systems remain frozen** nowadays?]{style="color:red"}
+:::
+::: 
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+![Figure 1: German parliament 1949](german_elec_results_1949.png){fig-align="left" width=80%}
+
+:::
+
+::: {.column width="50%"}
+
+![Figure 2: German parliament 2021](german_elec_results_2021.png){fig-align="left" width=95%}
+
+:::
+
+::::
+
+# Political change in the 70s: the New Social Movements {#sec-nsm}
+
+---
+
+![Figure 3: May 68 revolts](may68.png){fig-align="left"}
+
+---
+
+
+The 'New Social Movements' (NSM) were **bottom-up** political movements born in the early 70s in Western countries that focused on **post-materialistic issues**, such as women's and lgtbi rights, global peace and the environment
+
+::: incremental
+
+- Some antecedents are the May 1968 revolts in Paris and Berlin, the 1969 revolts in Italy, and the anti-Vietnam war movements in the US
+
+- 'New' because the **core constituency** was the highly educated **middle-class**
+:::
+
+---
+
+The *NSM* posed a challenge for the existent parties:
+
+::: incremental
+
+1. Their demands were ***not*** aligned with ***traditional cleavages***
+  
+2. The growth of new middle classes, the affluence of the working class and the shrinkage of the old middle classes posed a problem of ***de-alignment***
+
+:::
+
+# The Silent Revolution {#sec-silent}
+
+---
+
+Inglehart's [-@Inglehart1971] silent revolution hypothesis:
+
+<br>
+
+::: {.fragment .fade-in}
+
+Generational replacement and economic prosperity led to:
+:::
+
+::: {.fragment .fade-in}
+(1) value change and
+:::
+
+::: {.fragment .fade-in}
+(2) weakened mass-party linkages
+:::
+
+::: {.fragment .fade-in}
+→ thus, generating **potential for political change**
+:::
+
+---
+
+The hypothesized **mechanism** delves into the **social-psychology** literature:
+
+::: incremental
+
+  - It is suggested that a proportion of the electorate has fulfilled its basic needs of economic security
+  
+  - These **new middle-classes** would no longer pursue class-based goals of economic development
+  
+  - Instead, they would shift their **political preferences** to **'life-style'** based (e.g., sexual freedom and diversity acceptance)
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [What do you think of the theorized mechanism?]{style="color:red"}
+:::
+::: 
+
+---
+
+"(...) [despite the fact that middle-class status has generally tended to be associated with a preference for relatively conservative political parties, the newly emerging type of value priorities seems likely to be linked with support for radical social change.]{style="color:grey"} 
+
+Under given conditions, we believe, this can lead to **massive shifts to the political parties of the Left on the part of younger middle-class groups**. Conversely, **working-class** respondents would be relatively likely to have underlying value preferences which make them **potential recruits for conservative parties**" [@Inglehart1971, p. 992]
+
+## Response papers
+
+<br>
+
+::: {.fragment .fade-in}
+"One of the criticisms of Inglehart's article is that some of the trends he observes may not be as universal as he suggests." (M. Perler)
+:::
+
+
+
+# The rise of the Green parties in WE {#sec-green}
+
+---
+
+**Directly linked to the 'silent revolution' thesis and the NSM**
+
+
+::: {.fragment .fade-in}
+→ The first Green parties were founded in the mid-1970s and kept spreading in the 80s
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Two main types:
+:::
+
+::: incremental
+1. **Conservative green parties**
+    
+2. **New left parties**
+:::
+
+## Response papers
+
+<br>
+
+"...the two articles may place too much emphasis on the role of individual values and attitudes in the formation of political change, while underestimating the influence of political institutions, power structures and economic factors."  (M. Perler)
+
+## The impact of green parties across Europe
+
+::: incremental
+
+- Very heterogeneous across Europe [@MullerRommel1998]
+
+- Some factors:
+
+1. Electoral systems [(i.e., institutions)]{style="color:grey"}
+
+2. Types of party systems [(more or less polarized)]{style="color:grey"}
+
+3. Traditional left in government/opposition
+
+4. Federal vs. unitary states [(i.e., institutions again)]{style="color:grey"}
+
+5. Conservative green parties vs new left parties
+
+:::
+
+---
+
+```{r tbl, echo = FALSE, message = FALSE, warning = FALSE}
+
+require(knitr)
+library(tidyverse)
+library(kableExtra)
+
+country <- c("Germany", "France")
+
+elec_rules <- c("Majoritarian",
+                "Proportional")
+
+unions_left <- c("Medium",
+         "Strong")
+
+left_segm <- c("No",
+         "Yes")
+
+left_govt <- c("No",
+         "No")
+
+fed_inst <- c("Yes",
+         "No")
+
+type_green <- c("New Left",
+         "Conservative")
+
+av_green_vote_78_91 <- c("5.1%",
+         "1.2%")
+
+
+tbl <- data.frame(country,
+                  elec_rules,
+                  unions_left,
+                  left_segm,
+                  left_govt,
+                  fed_inst,
+                  type_green,
+                  av_green_vote_78_91)
+
+tbl <- t(tbl)
+
+rownames(tbl) <- c("Country",
+                    "Electoral rules",
+                    "Union's control over the left",
+                    "Segmentation of the Left",
+                    "Left in Government",
+                   "Federal institutions",
+                    "Type of Green party",
+                    "Average Green vote 78-91")
+
+tbl %>% 
+  kable(digits = 2, 
+        align = "c",
+        caption = "Table 1: Early success of Green parties in Germany and France") %>% 
+row_spec(1, bold = TRUE)
+```
+
+---
+
+In summary:
+
+::: incremental
+
+- Limited success
+
+- Issues [(e.g., **niche parties**)]{style="color:grey"} vs. cleavages
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [Other **niche parties**?]{style="color:red"}
+:::
+::: 
+
+:::
+
+# Current trends {#sec-current}
+
+---
+
+With the increasing salience of global warming and the climate crisis, some scholars and pundits argue that a **new wave of green parties** is likely
+
+::: {.fragment .fade-in}
+- However, the empirical evidence suggests that this is not yet the case [(e.g., 2021 German Federal election)]{style="color:grey"}
+:::
+
+::: {.fragment .fade-in}
+Nowadays, the success of Green parties range **from 0% to 9% of the vote share** in national elections in WE
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [What do you think? Is this **substantial support**?]{style="color:red"}
+:::
+::: 
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
+
+# Technical issues about the course {#sec-org}
+
+## Improving the presentations and RPs
+
+::: {.fragment .fade-in}
+
+Not necessary to explain the theory or give background info about the authors! (*everyone should have read the text and I will do that!*)
+
+::: 
+
+::: {.fragment .fade-in}
+
+Instead, **focus on one research question, own argument, and develop it!**
+
+::: 
+
+
+::: {.fragment .fade-in}
+
+- Read the PolSem [guidelines on academic writing and research](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf), specially the **research questions** section!
+
+::: 
+
+
+::: {.fragment .fade-in}
+
+- And **book office hours**! 
+
+:)
+
+::: 
+
+---
+
+## Your feedback
+
+<br>
+
+::: {.fragment .fade-in}
+
+Evaluations will arrive to your email
+
+:::
+
+<br>
+
+
+::: {.fragment .fade-in}
+Independently, [your opinions]{style="color:red"} helps me to improve the class!
+
+:::
+
+## Have a nice end of the week :blush:

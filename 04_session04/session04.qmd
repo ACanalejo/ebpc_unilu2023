@@ -1,0 +1,272 @@
+---
+title: "The formation of party systems II: the sociological approach"
+subtitle: "Session 04"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-soc]. The sociological approach to party system formation 
+
+[-@sec-hist]. The historical antecedents of party systems
+
+[-@sec-cleavage]. Cleavage theory: from lines of conflict to political competition
+
+# Introduction  {#sec-introduction}
+
+## Issues
+
+- No presentation on session 5
+
+- Re-scheduling session 14
+
+## Political news
+
+- [Electoral rules' change in Germany](https://twitter.com/RankedPartylist/status/1636711351140728835?t=iE_wYEn_WdyD-HLiKwwWsw&s=35)
+
+- [Evidence on malapportioned legislative houses](https://twitter.com/mguinjoan/status/1636703190832775171?t=JwjA1y9zRsew_TCoUHgfLw&s=35)
+
+## Doubts and questions
+
+::: {.fragment .fade-in}
+- Last sessions' topics
+:::
+
+::: {.fragment .fade-in}
+- The readings of this week
+:::
+
+# The sociological approach to party system formation {#sec-soc}
+
+## Approaches to party system change
+
+<br>
+
+::: {.fragment .semi-fade-out}
+The **institutional approach**
+:::
+
+
+<br>
+
+::: {.fragment .fade-in}
+The **sociological approach**
+:::
+
+<br>
+
+
+# The historical antecedents of party systems {#sec-hist}
+
+---
+
+Two major events in the XIXth century:
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ The national revolution [(ie., state formation)]{style="color:grey"}
+
+::: 
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ The industrial revolution [(ie., social relations transformed due to technological change)]{style="color:grey"}
+
+::: 
+
+
+## Four major lines of conflict
+
+::: incremental
+1. **Class conflict**
+:::
+
+::: {.fragment .fade-in}
+
+→ Owners vs. workers
+
+::: 
+
+<br>
+
+::: incremental
+
+2. **Agrarian conflict**
+:::
+
+::: {.fragment .fade-in}
+
+→ Urban vs. rural elites
+
+::: 
+
+## Four major lines of conflict
+
+3. **Religious conflict**
+
+::: {.fragment .fade-in}
+
+→ Religious vs. secular elites / different religion elites
+:::
+
+<br>
+
+::: incremental
+
+4. **Centre-periphery conflict**
+:::
+
+::: {.fragment .fade-in}
+
+→ National vs. regional elites
+
+::: 
+
+# Cleavage theory: from lines of conflict to political competition {#sec-cleavage}
+
+## What is a cleavage? [@Lipset1967a]
+
+::: incremental
+
+- There may be several political conflicts characterising the transition from feudal to the modern state
+
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [Why some become **more relevant** than others?]{style="color:red"}
+:::
+::: 
+
+::: incremental
+
+1. Initial distribution of power
+
+2. Strategies and alliances
+
+3. External factors
+
+:::
+
+::: {.fragment .fade-in}
+→ *IMP:* ***Overlapping vs. cross-cutting cleavages***
+::: 
+
+## The process of cleavage formation
+
+<br>
+
+::: {.fragment .fade-in}
+
+Three **sufficient and necessary conditions** [@Bartolini1990]:
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+***Social divisions***
+
+:::
+
+::: {.fragment .fade-in}
+
+→ ***identity formation*** [(relevance of mass organizations)]{style="color:grey"}
+
+:::
+
+::: {.fragment .fade-in}
+
+→ ***politicization*** [(top-down vs. bottom-up)]{style="color:grey"}
+
+:::
+
+## Cleavages and party systems
+
+::: incremental
+
+- UK vs Switzerland
+
+- Spain vs. Italy
+
+- **Other examples?**
+
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+→ [What about the interaction between **cleavages and institutions**?]{style="color:red"}
+:::
+:::
+
+## Summary
+
+::: incremental
+
+- Party systems are historically rooted in the state formation process of each country
+
+- When social conflicts become politicized, they become cleavages
+
+- In contrast to more contingent social conflicts [(e.g., COVID derived issues)]{style="color:grey"}, cleavages are rooted in the identity of politically relevant social groups
+
+:::
+
+## Summary
+
+::: incremental
+
+- They explain the origin and characteristics of parties and party system
+
+- Cleavages and institutions are mutually self-reinforcing, and hel to explain the stability of electoral competition in Western democracies
+
+:::
+
+# Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+## References
