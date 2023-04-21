@@ -1,0 +1,326 @@
+---
+title: "PS change in WE III: Economic voting after the Great Recession"
+subtitle: "Session 07"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-se]. Moving beyond NWE
+
+[-@sec-crises]. The impact of crises on party systems
+
+[-@sec-econ_voting].  An introduction to economic voting theory
+
+[-@sec-great_rec]. The political consequences of the Great Recession
+
+# Introduction  {#sec-introduction}
+
+## Response papers
+
+- Send delayed response papers!
+
+## Doubts and questions
+
+- Last sessions [(ie., PRR parties/cleavages/silent revolution)]{style="color:grey"}
+
+- The readings of this week
+
+# Moving beyond NWE {#sec-se}
+
+---
+
+So far, we have focused on North-Western Europe (NWE)
+
+<br>
+
+::: {.fragment .fade-in}
+At the time Lipset and Rokkan [-@Lipset1967a] formulated their cleavage theory, the presence of true liberal democracies was restricted to **North America**, Oceania  and a cluster of countries in **North-Western and Central Europe** (NWE)
+
+
+<br>
+
+That is, countries that belonged to the so-called **first and second waves of democratization** (before and after the inter-war period, respectively)
+:::
+
+---
+
+![Figure 1: Oldest democracies in the world. SOURCE: Our World in Data, Boix, C., Miller, M. and Rosato. S.](oldest_democracies.png){width=100%}
+
+---
+
+Although Lipset and Rokkan did **include some cases of former democracies** to ground their theory (e.g., Spain), most of the cases used for their analysis share the following factors:
+
+  1. Pre-war process of state formation (before the 20s)
+  
+  2. Co-evolution of political (i.e., suffrage extension) and economic advances (i.e., industralization)
+  
+  3. Post-war period of democratic stability and economic prosperity (between the 40s and the 60s)
+
+---
+
+This framework cannot be applied to other parts of the world. For example, in Europe:
+
+  1. **Southern Europe**, except for Italy (SE)
+  
+  2. **Central-Eastern Europe** (CEE)
+
+<br>
+
+::: {.fragment .fade-in}
+[**Why might this distinction be important for analyzing changes in the party systems and electoral competition patterns?**]{style="color:red"}
+:::
+
+---
+
+**CEE party systems:**
+
+
+1. Democracies born after the fall of the Berlin wall (90s)
+  
+2. Characterised by unstable party systems
+  
+3. Prompted to authoritarian-oriented leaders/defective implementation of democratic institutions
+  
+4. Although important cross-country differences (e.g., stability in Slovenia vs. instability in Slovakia / high democratic quality in Lithuania vs. low democratic quality in Hungary)
+
+---
+
+**SE party systems:**
+
+1. They are part of the so-called **third wave of democratization** (beginning/end)
+  
+2. In most cases, they are **preceded by authoritarian regimes** (with the exception of Malta)
+  
+    - However, the autocracies of Greece, Portugal and Spain (as well as Italy before the 2nd World War) were **far-right autocracies** instead of communist regimes
+    
+    
+---
+
+- Party systems in SE resemble those of NWE (but not those of CEE) in that they all institutionalised very quickly after the first democratic elections
+
+    - **Party system institutionalisation**: political parties interact in a stable and patterned way
+
+
+::: {.fragment .fade-in}
+**Why did party systems of SE got institutionalised more and quicker than party systems in CEE?**
+:::
+
+::: {.fragment .fade-in}
+→ Interaction of cleavages and institutions!
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+[**What about Green and PRR parties in SE?**]{style="color:red"}
+:::
+
+
+# The impact of crises on party systems {#sec-crises}
+
+---
+
+<br>
+
+"A **crisis situation** is created **when routine incremental problem-solving no longer works**, when institutions are no longer taken for granted and are no longer self-reinforcing, when the compliance of citizens is no longer guaranteed, and when positive feedback processes are set in motion that accentuate rather than counterbalance the emerging crisis" [@Kriesi2019, p. 33]
+
+<br>
+
+---
+
+In **path-dependency** terminology, a **'critical juncture'**
+
+→ A **punctuation** to an equilibrium, that gives place to new equilibrium
+
+<br>
+
+::: {.fragment .fade-in}
+"Thus, the crisis situation constitutes an opportunity for change." [@Kriesi2019, p. 33]
+::: 
+
+---
+
+So far we have discussed progressive changes, **crises can foster rapid changes** instead
+
+However, crises do **not** provoke changes **by themselves**
+
+  1. They **accelerate** existent **dynamics** (e.g., the 2015 refugee crisis on AfD)
+  
+  2. Or **unfold latent societal and political conflicts** (e.g., the Italian *tangentopoli*)
+  
+## The Italian 'tangentopoli'
+
+![Figure 2: Figure 1 from Morlino (1996)](figure1_morlino.png){width=100%}
+
+---
+
+**So what did happen here?** [@Morlino1996]
+
+::: incremental
+
+  1. Long period of **economic stagnation**
+  
+  2. Turbulent **international politics** (i.e., the end of the Cold War)
+  
+  3. National **political legitimacy** crisis
+
+  4. **Disintegration of** political **parties**
+  
+  5. Sharp **decline** of **party ties**
+  
+  6. **Bottom-up mobilization**
+  
+  7. Media driven **top-down mobilization**
+  
+  8. In addition, **change of the electoral law** to a majoritarian FPTP system in a geographically fragmented country (interplay of institutional and societal factors)
+
+:::
+
+# An introduction to economic voting theory {#sec-econ_voting}
+
+---
+
+![Figure 3: Figure 6.1 from Achen and Bartels (2017)](Figure6-1_Achen_Bartels.png){width=100%}
+---
+
+***Economic voting:*** voters decide whether to vote for the incumbent or the opposition depending on the state of the economy
+
+::: {.fragment .fade-in}
+The economy as a ***valence issue*** (vs. positional)
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Two main approaches:
+
+1. Socio-tropic [@Achen2017]
+
+2. Ego-tropic [@Fiorina1978]
+:::
+
+## Response papers
+
+"It is important to consider whether economic voting is truly an example of rational decision-making, or whether it is simply another bias that voters use to simplify the decision-making process" (George O'Carroll)
+
+<br>
+
+::: {.fragment .fade-in}
+"[...] many voters lack [...] the ability to assess one's own economic and financial situation and to be able to decide rationally to what extent the responsibility lies with oneself or with politics." (Severine Peer)
+:::
+
+---
+
+That said, [what does happen when the economy remains bad after government alternation?]{style="color:red"}
+
+
+# The political consequences of the Great Recession {#sec-great_rec}
+
+---
+
+- The most important economic crisis in the West since the Great Depression
+
+- It started in 2008 in the US, but its effects endured until 2015 in (some parts of) Europe (i.e., it led to the Eurozone crisis)
+
+- It particularly hit SE and Ireland (debtor vs. creditor countries)
+
+::: {.fragment .fade-in}
+[**What consequences did it have for party systems?**]{style="color:red"}
+:::
+
+---
+
+Unequal across Europe [@Kriesi2019]
+
+- In NWE and CEE benefited opposition parties in most countries
+  
+- In SE provoked the massive entry of *challenger parties*
+
+::: {.fragment .fade-in}
+→ **Challenger party:** a party that has not yet participated in government
+:::
+
+---
+
+  1. **Spain**: Podemos (*We Can*) and Ciudadanos (*Citizens*) 
+
+  2. **Greece**: Syriza, To Potami (*The River*), ANEL and the Golden Dawn
+  
+  3. **Italy**: first, technocratic government, afterwards, M5S and Scelta Civica (*Civic Choice*)
+  
+  4. **Portugal**: BE, but continuity
+
+---
+
+## Response paper
+
+"They do however have aspects of weaknesses within their framework and fail to include important factors [...] The first being the lack of depth involved in the social movements" (Leon Gallagher)
+
+<br>
+
+::: {.fragment .fade-in}
+"This view is particularly interesting in the context of cleavages, such as the class cleavage described by Lipset and Rokkan. It is important to consider the voting behavior of different classes and their response to economic crises" (Irina Wais)
+:::
+    
+---
+
+[**What about other more recent crises?**]{style="color:red"}
+
+::: incremental
+
+  1. The 2015 refugee crisis
+  
+  2. The COVID crisis
+  
+  3. The Ukraine war and the energy crisis
+
+:::
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>

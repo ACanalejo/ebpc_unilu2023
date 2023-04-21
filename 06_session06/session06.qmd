@@ -1,0 +1,243 @@
+---
+title: "PS change in WE II: New far right parties and the silent counter-revolution"
+subtitle: "Session 06"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-context]. The rise of far right parties in context
+
+[-@sec-newfar]. New far-right parties in Europe
+
+[-@sec-silent]. The silent counter-revolution
+
+[-@sec-prr]. The populist radical right
+
+[-@sec-prr_success]. The impact of PRR parties across Europe
+
+# Introduction  {#sec-introduction}
+
+## Technical notes
+
+Session 14
+
+- 16:00 - 17:00 (HS12)
+
+- Syllabus updated
+
+## Doubts and questions
+
+::: {.fragment .fade-in}
+- Last sessions [(ie., cleavages/silent revolution)]{style="color:grey"}
+:::
+
+::: {.fragment .fade-in}
+- The readings of this week
+:::
+
+
+# The rise of far right parties in context  {#sec-context}
+
+---
+
+Some factors shaping electoral behavior and party competition that gained importance in the 80s/90s:
+
+::: incremental
+1. The **weakening of party ties** [(more on *session 10*)]{style="color:grey"}
+
+2. The **'issue voter'** thesis [(**issue salience** vs. identity)]{style="color:grey"}
+
+3. The **catch-all parties** and competition based on **valence issues**
+
+:::
+
+# New far-right parties in Europe {#sec-newfar}
+
+---
+
+**New extreme right parties** had gained momentum in some national elections (remarkably, the *National Front* in France)
+
+<br>
+
+::: {.fragment .fade-in}
+→ They resembled those extreme right parties of the inter-war period at attracting very diverse voters (ie., **cross-cutting** existing **cleavages**) [@Ignazi1992]
+:::
+
+<br>
+
+
+::: {.fragment .fade-in}
+→ However, they were different from their **successors** because **they did not reject the basic democratic principles**
+:::
+
+---
+
+![Figure 1: Table 1 from Ignazi (1992)](table1_ignazi.png){fig-align="left" width=100%}
+---
+
+["**Why**, in an era of mounting **post-materialism and economic growth**, do we find an **increasing number of right-wing voters**?"]{style="color:red"} [@Ignazi1992, p. 5]
+
+
+# The silent counter-revolution {#sec-silent}
+
+---
+
+The silent counter-revolution thesis:
+
+::: incremental
+
+ 1. A renewal importance of **traditional values** as a response to the threat of post-materialistic values
+  
+2. Increasing ideological **polarization**
+  
+3. A **decline of system legitimacy**
+
+4. "Immigration, law and order." The rise of a **new value dimension**
+
+::: 
+
+
+---
+
+![Figure 2: Cover of Cultural Backlash (2019)](norris.png){fig-align="left" width=100%}
+
+---
+
+## Response papers
+
+::: {.fragment .fade-in}
+"I think that it is not possible to just take a dynamic set of values [*neoconservatism*], which is not based on any empirical evidence, and then simply saying that one believes it to be the dominant set of values" (Paul-Vincent Heisenberg)
+:::
+
+::: {.fragment .fade-in}
+"[...] one could argue that the emergence of far-right parties has occurred differently in different countries, and that Ignazi's framework may not work in all contexts." (Samuel Steiner Halter)
+:::
+
+---
+
+## Response papers
+
+::: {.fragment .fade-in}
+"[*Ignazi*] lacks a clear connection to the concept of populism, an avenue that could strengthen his definition." (Liam O'Brien)
+:::
+
+::: {.fragment .fade-in}
+"[...] the criterion of opposition to the political system remains too broad and has potential for over-inclusion. It could for example include populist parties that share the same anti-systemic attitude as ERPs without holding extreme right-wing views." (Samuel Häring)
+:::
+
+# A new party family? The populist radical right {#sec-prr}
+
+---
+
+Betz [-@Betz1993]:
+
+  1. The **populist radical right** (PRR) as a new party family
+  
+  2. **Political resentment** as a driver of success
+
+---
+
+
+"[...] they tend to combine a **classic liberal position on the individual and the economy** with the **sociopolitical agenda of the extreme** and intellectual **new right**, and they deliver this amalgam **to those disenchanted with their individual life chances and the political system.**" [@Betz1993, pp. 413-4]
+
+---
+
+Mudde's [-@Mudde2014] definition:
+
+::: incremental
+  
+  1. **Nativisim**: "a xenophobic form of nationalism in which a mono-cultural nation-state is the ideal and all non-natives (i.e. aliens) are perceived as a threat to the nation"
+  
+  2. **Authoritarianism**: "a strict belief in order and its stringent enforcement within society through discipline, law and order-based policies"
+  
+  3. **Populism**: "a thin ideology that considers society to be essentially divided between two antagonistic and homogeneous groups, the pure people and the corrupt elite, and wants politics to reflect the general will of the people"
+
+::: 
+
+---
+
+Three types of explanations for the PRR success:
+
+::: incremental
+
+  1. **Economic**: technological change, globalization 
+  
+  2. **Cultural**: multiculturalism [(ie., immigration)]{style="color:grey"} and post-materialistic values
+  
+  3. **Political**: democratic discontent and public service deprivation
+::: 
+
+# The impact of PRR parties across Europe {#sec-prr_success}
+
+## Two types of early movers
+
+  1. **Converted old parties**, like the FPÖ in Austria or the SVP in Switzerland
+
+  2. **Truly new parties**, like the FrP in Denmark and the FN in France
+  
+---
+
+![Figure 3: Table 1 from Mudde (2014)](table1_mudde.png){fig-align="left" width=100%}
+
+## Current trends
+
+  1. **The Great Recession** [(i.e., the 2008 financial crisis and its consequences)]{style="color:grey"}
+  
+  2. **The 2015 refugee crisis**
+  
+  3. **Brexit**
+
+---
+
+
+[What does the rise of the **Green** and **PRR** parties tell us about cleavage theory and the **'frozen hypothesis'**?]{style="color:red"}
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
+
