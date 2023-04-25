@@ -281,7 +281,7 @@ bib["MullerRommel1998", "Inglehart1971"]
 bib["Muller--Rommel2019"]
 ``` 
 
-**05.04.2023.** ***Session 06. Party system change in WE II: New far right parties and the silent counter-revolution***
+**05.04.2023.** ***Session 06. Party system change in WE II: new far right parties and the silent counter-revolution***
 
   + Mandatory readings:
 
@@ -295,7 +295,7 @@ bib["Ignazi1992", "Mudde2014"]
 bib["Betz1993"]
 ``` 
 
-**19.04.2023.** ***Session 07. Party system change III: Economic voting after the Great Recession***
+**19.04.2023.** ***Session 07. Party system change III: economic voting after the Great Recession***
 
   + Mandatory readings:
 
@@ -325,7 +325,7 @@ bib["Kriesi2006", "Zollinger2022"]
 bib["Hooghe2018b", "Bornschier2010"]
 ``` 
 
-**03.05.2023.** ***Session 09. Demand-side changes II: old cleavages in the XXIst century***
+**03.05.2023.** ***Session 09. Demand-side changes II: traditional cleavages in the XXIst century***
 
   + Mandatory readings:
 
