@@ -1,0 +1,282 @@
+---
+title: "Demand-side changes II: traditional cleavages in the XXIst century"
+subtitle: "Session 09"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-alignmnent]. Re-alignment vs. de-alignment
+
+[-@sec-cleavages]. Traditional cleavages in the XXIst century 
+
+[-@sec-class]. Class voting today
+
+# Introduction  {#sec-introduction}
+
+## Last session recap
+
+::: incremental
+
+- The emergence of new parties on the left and specially on the right have led scholars to consider the **transformation of the cleavage structure in Europe**
+
+- In the last session we viewed the increasingly accepted theory of the emergence of **new value-based cleavage** 
+
+:::
+
+
+## Last session recap
+
+- This cleavage is rooted on social transformations following the conversion **from an industrial to a post-industrial society**:
+
+::: incremental
+
+  1. Changing labour market
+  
+  2. Expansion of education
+  
+  3. Globalization
+
+:::
+
+## Last session recap
+
+- Because of this new cleavage, political conflict in Western Europe is said to be increasingly structured by **two** orthogonal **dimensions**
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+
+[Do you remember the **difference between cleavage and dimension**?]{style="color:red"}
+:::
+:::
+
+::: incremental
+
+- Despite regional differences, this two-dimensional space emerging from the new cleavage seems to be *the new normal* in most of Europe
+
+:::
+
+---
+
+[But **what about the old cleavages?**]{style="color:red"}
+
+<br>
+
+::: {.fragment .fade-in}
+
+[To what extent **have they lost their explanatory power?**]{style="color:red"}
+
+::: 
+
+# Re-alignment vs. de-alignment {#sec-alignmnent}
+
+---
+
+- In the beginning of the 1990s and 2000s, the belief that cleavages had lost their explanatory power became popular [@Dalton2002; @Franklin1992]
+
+::: incremental
+
+<br>
+
+- It was proposed that a series of socio-structural transformations had led to a **process of de-alignment**
+:::
+
+---
+
+**De-alignment** occurs when voters stop behaving in accordance to their ascription to a social group
+
+<br>
+
+::: {.fragment .fade-in}
+
+Thus, **social groups stop behaving cohesively**
+
+::: 
+
+
+---
+
+Two main arguments:
+
+1. Changes in the parties and medium-level organizations [(*session 10*)]{style="color:grey"}
+
+2. **Changes in the social-structure**
+
+---
+
+- On the one hand, the transition from the industrial to the post-industrial society leads to the **fading of specific groups** (e.g., manual workers, active church attendants, etc.)
+
+::: incremental
+
+- On the other hand, the emergence of new issues cross-cutting the traditional cleavages generate ***cross-pressures***, making the vote less aligned with traditional social groups
+
+::: 
+
+<br>
+
+::: {.fragment .fade-in}
+
+Still today, there is a **debate** about the extent to which Western societies have experienced/ are experiencing a **process of de-alignment or re-alignment** (along the *cultural* cleavage)
+
+::: 
+
+# Traditional cleavages in the XXIst century {#sec-cleavages}
+
+
+---
+
+Golder [-@Goldberg2020a] analyses the extent to which the **class and religious cleavages** have lost their importance in four Western countries
+
+::: incremental
+
+- He differentiates between three types of de-alignment process:
+
+  1. **Structural**: the group loses importance (i.e., group size diminishes) 
+
+  2. **Behavioral**: the group loses predictive power for the voting choice of its members
+  
+  3. **Political**: electoral turnout grows asymmetrically across opposing groups
+
+:::
+
+---
+
+[Is the so-called **structural de-alignment** a truly process of de-alignment?]{style="color:red"}
+
+<br>
+
+::: {.fragment .fade-in}
+
+[How do **behavioral and political re-alignment** relate to each other? Are they **independent**?]{style="color:red"}
+
+:::
+
+---
+
+![Figure 1: Class voting de-alignment? / Source: Golder (2020)](golder_class.png){width=100%}
+
+---
+
+![Figure 2: Turnout gap between social classes / Source: Golder (2020)](golder_gap.png){width=100%}
+
+
+# Class voting today {#sec-class}
+
+---
+
+Is class ascription still structuring the vote today?
+
+::: incremental
+
+- According some, de-alignment has occurred together with re-alignment [(*session 08*)]{style="color:grey"}, and as a result we find **complex voting patterns**
+
+- Therefore, **class** (and other social groups) **still explains the vote, but differently** [e.g., @Oesch2008]
+
+:::
+
+
+---
+
+Oesch and Rennwald [-@Oesch2018] proposes a threefold typology of classes according to their degree of cross-pressure by different cleavages:
+
+1. Preserves
+
+2. Contested strongholds
+
+3. Open competition
+
+---
+
+![Figure 3: Tripolar political space / Source: Oesch & Rennwald (2018)](tripolar_space.png){width=100%}
+
+---
+
+## To debate
+
+<br>
+
+[To what extent are our societies in a process of **de-alignment or re-alignment**?]{style="color:red"}
+
+<br>
+
+::: {.fragment .fade-in}
+
+[What traditional cleavages do you think have weakened the most/least?]{style="color:red"}
+
+::: 
+
+<br>
+
+::: {.fragment .fade-in}
+
+[If we are in a process of re-alignment along a new cleavage, **what are the social groups leading this process** (the modern *workers vs owners*)?]{style="color:red"}
+
+::: 
+
+---
+
+
+
+![Figure 4: Old cleavages and de-alignment / Source: Marks et al (2022)](marks_trad.png){width=100%}
+
+---
+
+![Figure 5: New cleavages and re-alignment / Source: Marks et al (2022)](marks_new.png){width=100%}
+
+
+## Summary
+
+- De-alignment and re-alignment processes may be occurring together [@Marks2022]
+- Transformation of traditional group-based voting (rather than evaporation) [(e.g., class)]{style="color:grey"}
+
+- Behind these changes: transformation of the social structure [(alone?)]{style="color:grey"}
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
+
