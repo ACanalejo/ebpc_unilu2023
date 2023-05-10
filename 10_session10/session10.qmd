@@ -1,0 +1,248 @@
+---
+title: "Supply-side changes I: the weakening of traditional party ties"
+subtitle: "Session 10"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+
+**Table of contents**
+
+[-@sec-introduction]. Introduction
+
+[-@sec-party_ties]. The weakening of traditional party ties
+
+[-@sec-voters]. The withdrawal of voters
+
+[-@sec-parties]. The withdrawal of parties
+
+[-@sec-agency]. Agency vs. structure
+
+
+# Introduction  {#sec-introduction}
+
+## Notes on the evaluation of the course
+
+<br>
+
+- Course evaluation opened!
+
+  → ***5th - 21st May***
+
+## Last sessions recap
+
+In the last weeks, we discussed:
+
+- The weakening of traditional cleavages
+
+- ... and the emergence of a new value-based cleavage
+
+- As a result: 
+  
+  → **Tri-polar space** organized along **two -economic and cultural- dimensions**
+
+## Last sessions recap
+
+<br>
+
+Main explanation so far: 
+
+***societal transformations***
+
+<br>
+
+::: {.fragment .fade-in}
+
+[...is there **any other explanation**(s) that may account for the deep changes in the Western electoral landscape?]{style="color:red"}
+:::
+
+# The weakening of traditional party ties {#sec-party_ties}
+
+---
+
+**Ruling the void** [@Mair2013]
+
+<br>
+
+What is the [main argument]{style="color:red"}?
+
+<br>
+
+::: {.fragment .fade-in}
+→ [Voters and parties are moving away from each other]{style="color:red"}
+:::
+
+---
+
+*Voters and parties are moving away from each other*
+
+<br>
+
+→ What does this mean?
+
+<br>
+
+→ What is the evidence that the author presents?
+
+# The withdrawal of voters {#sec-voters}
+
+## Electoral turnout
+
+![Figure 1: Table 1 from Mair (2013)](table1_mair.png)
+
+## Volatility
+
+![Figure 2: Table 2 from Mair (2013)](table2_mair.png)
+
+## Party identification
+
+![Figure 3: Table 3 from Mair (2013)](table3_mair.png)
+
+## Party membership
+
+![Figure 4: Table 4 from Mair (2013)](table4_mair.png)
+
+# The withdrawal of parties {#sec-parties}
+
+## The (political) functions of parties
+
+<br>
+
+1. **Representation** (government *by the people*)
+
+2. **Accountability** (government *for the people*)
+
+<br> 
+
+More in Przeworski et al [-@Przeworski1999]
+
+
+---
+
+<br>
+
+"In other words, parties – or at least the classic mass party – gave voice to the people, while also ensuring that the institutions of government were accountable." [@Mair2013]
+
+<br>
+
+<br>
+
+::: {.fragment .fade-in}
+→ According to Mair, [*what happened to these functions?*]{style="color:red"}
+:::
+
+---
+
+"The last decades of the twentieth century witnessed a gradual but also **inexorable withdrawal of the parties from the realm of civil society towards the realm of government and the state**, and together, these two processes have led to a situation in which [***each party tends to become more distant from the voters that it purports to represent***]{style="color:red"} while at the same time tending to become [***more closely associated with the alternative protagonists against which it purports to compete.***]{style="color:red"}" [@Mair2013]
+
+--- 
+
+
+<br>
+
+**And what about the other [mass organizations]{style="color:red"}** (e.g., church, unions, etc.)**?**
+
+<br>
+
+<br>
+
+::: {.fragment .fade-in}
+→ Remember Lipset & Rokkan [-@Lipset1967a]!
+:::
+
+# Agency vs. structure {#sec-agency}
+
+## Agency vs. structure
+
+Anthony Giddens [-@giddens1984constitution]
+
+<br>
+
+1. ***Structure***: social conditions
+
+2. ***Agency***: actors' free will 
+
+<br>
+
+::: {.fragment .fade-in}
+→ **The actors' choices make up the structure that will later condition their future choices**
+:::
+
+---
+
+<br>
+
+Mair argues that the withdrawal of voters and parties is not due to some of the actors' initiative, but rather they are embedded in a pernicious loop
+
+<br>
+
+::: {.fragment .fade-in}
+→ Do you agree with his interpretation? Is this more a matter of [agency or structure]{style="color:red"}?
+
+<br>
+
+→ Thinking about agency, [who are the agents "to blame"]{style="color:red"}?
+:::
+
+---
+
+## Response papers
+
+<br>
+
+"Even with the risks that populist parties bring to the political system, they can theoretically achieve what Mair wants them to: **foster change among the cartel parties and revitalize the participatory democracy**" (Samuel *Häring*)
+
+<br>
+
+"**Maybe new parties from the far right and left provide a suitable answer to the rigid cluster of cartel parties that formed in the middle of the spectrum.**" (Samuel *Häring*)
+
+## To debate
+
+<br>
+
+[Is there a **party democracy crisis** or **traditional parties crisis?**]{style="color:red"}
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
