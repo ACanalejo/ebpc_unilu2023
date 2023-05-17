@@ -1,0 +1,334 @@
+---
+title: "Supply-side changes II: challenger parties and the issue entrepreneurship model"
+subtitle: "Session 11"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+## Reminder
+
+<br>
+
+- Course evaluation opened!
+
+  → ***Until the 21st of May***
+
+---
+
+## Table of contents
+
+[-@sec-introduction]. Introduction
+
+[-@sec-evolution]. The issue evolution model
+
+[-@sec-entrepreneurship]. The issue entrepreneurship model
+
+[-@sec-limitations]. Limitations to the issue-entrepreneurship model
+
+
+
+# Introduction  {#sec-introduction}
+
+## From social to political change
+
+- In the last sessions...
+
+  1. Social transformations are leading to re-alignment along new lines of conflict 
+  
+  2. Traditional cleavages are becoming de-structured in NWE
+  
+  3. Social ties between traditional political parties and the electorate have weakened
+
+---
+
+We finished with the question:
+
+
+[Is there a **party democracy crisis** or are **traditional parties in crisis?**]{style="color:red"}
+
+
+
+## New parties and political change
+
+If new parties are leading political change, a few questions follow:
+
+::: incremental
+
+- Why are some new parties successful and not others?
+
+- Why are they successful only around some specific issues?
+
+- And why is there variation across countries and over time?
+
+:::
+
+
+# The issue evolution model {#sec-evolution}
+
+## The issue evolution model
+
+Carmines & Stimson [-@carmines_structure_1986]
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ It tries to answer a fundamental question about political change: [*why some new issues become politicized?*]{style="color:red"}
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+**Importantly,** the model moves the focus from the transformations occurring in society to the ***agency of political parties***
+
+:::
+
+## The issue evolution model
+
+![Figure 1 from Carmines & Stimson (1986)](carmines_fig1.png)
+
+## Shifting elite positions
+
+The main thesis is that political parties politicize new issues to increase their support
+
+<br>
+
+::: {.fragment .fade-in}
+
+**Politicization** = salience   *X*   polarization
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+[What issues do they choose to politicize?]{style="color:red"}
+
+:::
+
+
+## What new issues do party politicize?
+
+<br>
+
+To become politicized, new issues must be **emotionally charged**
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ That is, voters need to have [strong emotions]{style="color:red"} about them [(i.e., latent conflict, identity-related)]{style="color:grey"}
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+Thus, when parties take clear positions (i.e., ***clarity***), voters' emotions toward the issue is reflected toward the parties (i.e., ***affect***)
+
+:::
+
+---
+
+Ultimately, if the **new issue** become sufficiently important, it should bring [**mass alignment**]{style="color:red"}
+
+![Figure 4 from Carmines & Stimson (1986)](carmines_fig4.png)
+
+---
+
+<br>
+<br>
+<br>
+
+
+But what about ***multi-party systems***?
+
+
+# The issue entrepreneurship model {#sec-entrepreneurship}
+
+## The issue entrepreneurship model
+
+De Vries & Hobolt [-@Hobolt2012; -@DeVries2020]
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ It adapts the issue evolution model to the European multi-party systems
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+Again, the model focuses on the ***agency of political parties***, but it focuses on the role of new political parties: [*why some new parties become successful?*]{style="color:red"}
+
+:::
+
+
+## The issue entrepreneurship model
+
+<br>
+
+Distinction between three party types:
+
+::: incremental
+
+1. Mainstream governing parties
+
+2. Mainstream opposition parties
+
+3. **Challenger parties**
+
+:::
+
+## The issue entrepreneurship model
+
+In contrast to the issue evolution model, **mainstream opposition parties** do not have incentives to politicize new issues in multi party systems
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ The *potential costs* may be larger than the *expected benefits* [(e.g., cartel party thesis)]{style="color:grey"}
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+Therefore, **new issue politicization** is brought by [**challenger parties**]{style="color:red"}
+
+  → [*They talk of new issue* ***dimensions***]{style="color:grey"}
+
+:::
+
+
+## Why challenger parties?
+
+<br>
+
+
+::: incremental
+
+- They are the **losers** of the dominant dimension of competition
+
+- They do not have **coalitional records**
+
+- Therefore, their **expected benefits** are higher than the **potential costs**
+
+:::
+
+::: {.fragment .fade-in}
+
+→ What [**issues**]{style="color:red"}? Those more [dividing]{style="color:red"} [(ie., emotionally charged)]{style="color:grey"} and [not aligned along the dominant dimension]{style="color:red"}
+
+:::
+ 
+# Limitations to the issue-entrepreneurship model {#sec-limitations}
+
+## Response papers
+
+"Just because elites are at the beginning of the process (they make the issue salient first, according to the authors) does not mean that they are contributing to the creation of a burning issue more than other actors like parties and mass opinion." (Apolline Bouly)
+
+<br>
+
+::: {.fragment .fade-in}
+
+"For this theory to work completely, we need the voters to be more into "issue voting" rather than party identification. In fact, maybe the issue voters would also constitute a volatile electorate, since they would be voting according to issues that had beed raised and not for the party itself" (Apolline Bouly)
+
+:::
+
+## Response papers
+
+"Policy-seeking aims need not imply electoral benefit, as, especially in multi-party systems, some challenger parties may simply be ideologically oriented groups who hold priorities other than vote-gaining." (Liam O’Brien)
+
+<br>
+
+::: {.fragment .fade-in}
+
+"Parties can become issue entrepreneurs for a specific cause or to protest a major crisis or scandal." (Liam O’Brien)
+
+:::
+
+## Response papers
+
+"The free choice of issues for parties that appear to be political losers does not convince me in a general sense. Most (if not all parties) have a certain ideological position. While it is easier to change the party’s position if it is “young”, I think that even for political losers there is a tendency of “freezing” ideological orientation." (Paul-Vincent Heisenberg)
+
+<br>
+
+::: {.fragment .fade-in}
+
+"And the role of the media (mass media or even social media) should also be highlighted, as they have a crucial role in shaping opinion." (Irina Wais)
+
+:::
+
+## Integrating demand- and supply-side explanations
+
+Agency vs structure debate
+
+<br>
+
+::: {.fragment .fade-in}
+
+→  Ultimately, how can we [integrate **demand** and **supply** side explanations]{style="color:red"}?
+
+:::
+
+## To debate
+
+<br>
+
+
+Is there a [**party democracy crisis**]{style="color:red"} on top of the traditional parties' crisis?
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
