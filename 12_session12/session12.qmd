@@ -1,0 +1,355 @@
+---
+title: "Assessing party system change: the ‘freezing hypothesis’ revisited"
+subtitle: "Session 12"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+## Feedback course evaluation
+
+<br>
+
+- Things to improve:
+
+  1. Time managament
+  
+  2. Feedback response papers/presentations
+  
+  3. Other?
+
+- Grades and feedback
+
+
+---
+
+## Table of contents
+
+[-@sec-introduction]. Introduction
+
+[-@sec-myths]. Myths of electoral change
+
+[-@sec-volatility]. Party system volatility in WE 1945-2015
+
+[-@sec-empirical]. Assessing electoral change empirically
+
+
+# Introduction  {#sec-introduction}
+
+## Course recap
+
+<br>
+
+- B-I. Introduction to parties and party systems
+
+- B-II. Party system change in WE
+
+- B-III. Demand-side and supply-side explanations
+
+::: incremental
+
+- **B-IV. Implications and** [**empirical applications**]{style="color:red"}
+
+:::
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+![Figure 1: German parliament 1949](german_elec_results_1949.png){fig-align="left" width=80%}
+
+
+:::
+
+::: {.column width="50%"}
+
+![Figure 2: German parliament 2021](german_elec_results_2021.png){fig-align="left" width=95%}
+
+:::
+
+::::
+
+
+## How much electoral change?
+
+
+<br>
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ How can we **assess** the degree of **electoral change** [**empirically**]{style="color:red"}?
+
+:::
+
+
+# Myths of electoral change  {#sec-myths}
+
+## The paper in context
+
+Mair [-@Mair1993]
+
+  1. The work of Lipset and Rokkan [-@Lipset1967a] on the formation of party systems and the **cleavage structure in Europe** remained **largely uncontested**
+  
+  2. However, there was a **huge criticism towards the freezing hypothesis** since the 1970s
+  
+  3. The **rise of new parties** plus patterns of **weakening party ties** and **higher electoral volatility** led many scholars to claim that party systems had indeed transformed
+
+
+---
+
+<br>
+
+
+"It is not so much that Rokkan was wrong; rather, what has happened is simply that his analysis has been overtaken by events" [@Mair1993, p. 122]
+
+<br>
+
+::: {.fragment .fade-in}
+
+RQ: **Do European party systems remain frozen?**
+
+:::
+
+## Three sub-questions
+
+1. Is there **de-aligment** (i.e., decline of traditional parties)?
+
+2. Is there **re-aligment** (i.e., growth of new parties)?
+
+3. Is there **electoral instability** (i.e., both)?
+
+## Two indicators
+
+1. Electoral volatility
+
+2. Traditional party support
+
+## Electoral volatility
+
+Pedersen [-@Pedersen1979] & Bartolini and Mair [-@Bartolini1990]
+
+- **Average volatility** between 1945 and 1989: **8.7** (91.3 in stability)
+  
+    - **Some exceptions**: Germany in 1920 (32.1) OR France in the 1950s (22.3 in average)
+  
+- Importantly **higher in the inter-war period** (in which the frozen hypothesis is based on): **9.9**
+
+
+## Electoral volatility
+
+- In addition, **most volatility happens within blocks**
+    
+    - Average **cross-cleavage volatility** in the post-war and the interwar periods: 2.9 and 3.2 respectively
+    
+- Some differences across European countries, **although minor**
+
+## Electoral volatility
+
+"In fact, if one looks at the three broad electoral epochs which have occurred since universal suffrage and the age of mass politics - the inter-war period, the first post-war decades, and then the most recent post-war decades, **aggregate electoral volatility, aggregate electoral instability, has shown a consistent decline**" [@Mair1993, p. 124] 
+
+## Traditional party support
+    
+- **95% of the vote in average in the 'frozen period'** (early 60S) compared to **84% of the vote in the 'changing period'** (late 80s and early 90s)
+
+    
+- Particularly relevant given the generational replacement and the enfranchisement of new voters
+
+
+- According to Mair, ***this is a sign of stability***
+
+
+::: {.fragment .fade-in}
+
+"Even though most parties win numbers of votes, the overall loss of support shows in my opinion a clear sign of electoral change" (Micheline Perler)
+
+:::
+
+---
+
+![Figure 3: Table 2 in Mair (1993)](mair_tab2.png)
+
+## Why party systems are bias towards stability while political analyses are bias towards instability?
+
+<br>
+
+::: {.fragment .fade-in}
+
+"even if trust in the old parties is declining in some cases: identification with an established party [...] leads to  [...] keeping its vote share relatively stable" (Severine Peer)
+
+:::
+
+## Stability vs instability bias
+  
+1. **Misconception of the social structure-political structure interaction** [e.g., @Franklin1992]
+  
+2. Underestimation of the capacity of parties to adapt
+  
+3. The appeal of newness
+
+
+# Party system volatility in WE 1945-2015  {#sec-volatility}
+
+## The paper in context
+
+Emanuele & Chiaramonte [-@Chiaramonte2017]
+
+- In the past few years, the debate on party system change has revitalized due to
+
+  1. **dramatic volatility in SE**
+  
+  2. the **rise of PRR parties** in former right-wing autocracies (e.g., Germany)
+
+::: incremental
+
+- As a result, it is important to **re-assess** the degree of **party system stability and change** in WE
+
+:::
+
+## Identifying patterns of de-institutionalization in WE
+
+- De-institutionalization = recurring high volatility
+
+    1. Alternation volatility
+    
+    2. **Regeneration volatility**
+
+::: {.fragment .fade-in}
+
+RQ: **Have Western European** [**party-systems**]{style="color:red"} **become** [**de-institutionalized**]{style="color:red"}**?**
+
+:::
+
+---
+
+![Figure 4: Figure 1 in Emanuele & Chiaramonte (2017)](ema_fig1.png)
+
+---
+
+![Figure 5: Figure 4 in Emanuele & Chiaramonte (2017)](ema_fig4.png)
+
+---
+
+![Figure 6: Table 5 in Emanuele & Chiaramonte (2017)](ema_tab5.png)
+
+## Conclusion
+
+  
+- "[...] the overall picture of the levels of party system volatility and regeneration across time and space shows that the [**‘fundamental bias towards stability’**]{style="color:red"} emphasized by Bartolini and Mair (1990: 68) **appears confirmed**"
+
+::: incremental
+      
+- **however**, "there is a clear increase of both variables during the last electoral period (1992–2015), with further acceleration since 2010 that reveals [**a general shift towards instability in the last years**]{style="color:red"}"
+
+:::
+
+# Assessing electoral change empirically  {#sec-empirical}
+
+## Measuring party-system change/stability
+
+So far...
+
+::: incremental
+
+- Electoral volatility (cross-cleavage vs. between-cleavage/alternation vs regeneration)
+  
+- Traditional parties strength
+  
+- Party identification/membership [@Mair2013]
+:::
+
+## Measuring party-system change/stability
+
+Others?
+
+::: incremental
+  
+- Party system fragmentation
+  
+- Ideological polarization
+  
+- **Conflict dimensionality**
+
+- ...
+  
+:::
+
+::: {.fragment .fade-in}
+
+→ Ultimately, **it depends** on the [research question]{style="color:red"}!
+
+:::
+
+
+## So... how much electoral change?
+
+<br>
+
+
+<br>
+
+::: {.fragment .fade-in}
+
+With this in mind, is [party democracy]{style="color:red"} in [**crisis**]{style="color:red"}?
+
+:::
+
+<br>
+
+
+<br>
+
+::: {.fragment .fade-in}
+
+→ Is measuring change **enough to answer this question**? [What else]{style="color:red"} otherwise?
+
+:::
+
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+
+## References
+
+<div id="refs"></div>
