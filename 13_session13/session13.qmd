@@ -1,0 +1,217 @@
+---
+title: "The consequences of party system change"
+subtitle: "Session 13"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+## Table of contents
+
+[-@sec-introduction]. Introduction
+
+[-@sec-threat]. Threat or corrective?
+
+[-@sec-polarization]. Polarization and party system change
+
+[-@sec-quality]. Democratic quality and party system change
+
+[-@sec-conclusion]. Conclusion
+
+# Introduction {#sec-introduction}
+
+## So... how much electoral change?
+
+<br>
+
+<br>
+
+::: {.fragment .fade-in}
+With this in mind, is **party** [**democracy**]{style="color:red"} in [**crisis**]{style="color:red"}?
+:::
+
+<br>
+
+<br>
+
+::: {.fragment .fade-in}
+→ Is measuring change **enough to answer this question**? [What else]{style="color:red"} otherwise?
+:::
+
+# Threat or corrective? {#sec-threat}
+
+## Threat or corrective?
+
+-   A debate born out from the literature on **populism** [@Kaltwasser2012; @Mudde2012a]
+
+    1.  "Power to the people" [(e.g., direct democracy claims)]{style="color:grey"}
+
+    2.  Disregard of liberal institutions
+
+::: {.fragment .fade-in}
+-   Further reinforced by the threat of **authoritarian**-oriented **leaders** [(e.g., Trump, Bolsonaro, etc.)]{style="color:grey"} [e.g., @Norris2019]
+:::
+
+## Beyond the populist challenge
+
+-   Dis-anchorage of the voter-party linkages [e.g., @Mair2013]
+
+    → Fear of parties becoming mere electoral marketers
+
+::: {.fragment .fade-in}
+-   Higher party system fragmentation leading to:
+
+    → Instability and lowering **democratic quality** [(e.g., weak coalitions, poor policy choices, etc.)]{style="color:grey"}
+
+    → Radicalisation and **polarization** [(ideological and **affective**)]{style="color:grey"}
+:::
+
+# Polarization and party system change {#sec-polarization}
+
+## Radical party entry and polarization
+
+Bischof & Wagner [-@Bischof2019]
+
+<br>
+
+::: {.fragment .fade-in}
+The paper provides causal evidence of whether radical party entry increases **ideological polarization**
+:::
+
+::: {.fragment .fade-in}
+It suggests two mechanisms:
+
+1.  **Legitimization** (i.e. signalling of social norm change)
+
+2.  **Backlash** (i.e. reaction)
+:::
+
+------------------------------------------------------------------------
+
+-   It concludes that the entry of **radical right-wing parties increases polarization** via the two abovementioned mechanisms in the **short and long-term**
+
+::: {.fragment .fade-in}
+-   It provides **evidence from three complementary studies**:
+
+    1.  LPF in the Netherlands 2002 with panel data
+
+    2.  Eurobarometer with TSCS data and two-way fixed effects models
+
+    3.  Eurobarometer with TSCS data and synthetic control methods
+:::
+
+------------------------------------------------------------------------
+
+![Figure 1: Figure 4 in Bischof & Wagner (2019)](bischof_fig4.png)
+
+---
+
+
+## Response papers
+
+"I believe exploring the process of radical parties entering party systems and creating polarisation is certainly valuable, but **it could be so much more significant if we were to understand how these parties create polarisation in order to gain political success.**" (George O'Carroll)
+
+## Response papers
+
+"I will give focus to the **lack of research and salience given to centrist voters** and whether these voters tend to follow the legitimatize or backlash hypothesis" (Leon Gallagher)
+
+<br>
+
+"They did say “entrance of the LPF also led to an abandonment of the centre.” (Bischoff & Wagner, 2019) but **does this mean that centrist voters polarized in either directions or that the parties that considered themselves ‘centre’ change their political ideology with the introduction of the far-right party?**" (Leon Gallagher)
+
+
+# Democratic quality and party system change {#sec-quality}
+
+## PS fragmentation and the quality of democracy
+
+Valentim & Dinas [-@Valentim2020a]
+
+::: {.fragment .fade-in}
+The paper provides causal evidence of whether party system fragmentation affects the **quality of democracy**
+:::
+
+::: {.fragment .fade-in}
+It focuses on several **dimensions**:
+
+|                              |                        |
+|------------------------------|------------------------|
+| Accountability               | Instability            |
+| Corruption                   | Participation          |
+| Representation of minorities | Public goods provision |
+:::
+
+------------------------------------------------------------------------
+
+-   It concludes that **higher party system fragmentation** **do not affect** the **quality of democracy** unless in highly polarized party systems [(where the effect is positive on average)]{style="color:grey"}
+
+::: {.fragment .fade-in}
+-   Methodologically, it innovates using an **IV approach**:
+
+    1.  It exploits quasi-random variation in the number of parties around legally fixed electoral thresholds
+
+    2.  Then it construct counter-factual PS fragmentation measures for 320 elections in 38 countries
+:::
+
+------------------------------------------------------------------------
+
+![Figure 2: Figure 4 in Valentim & Dinas (2023)](valentim_fig4.png)
+
+# Conclusion {#sec-conclusion}
+
+## Is electoral change good or bad for democracy?
+
+<br>
+
+::: {.fragment .fade-in}
+Are our democracies [better off]{style="color:red"} now [than]{style="color:red"} they were [before]{style="color:red"}? Is this due to electoral changes or something else?
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+How can we assess these questions [empirically]{style="color:red"}? What are the [relevant dimensions]{style="color:red"}?
+:::
+
+## Thanks!
+
+<br> <br>
+
+:clap: :clap: :clap:
+
+## References
+
+::: {#refs}
+:::

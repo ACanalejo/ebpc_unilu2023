@@ -1,0 +1,161 @@
+---
+title: "Empirical workshop on electoral volatility"
+subtitle: "Session 14"
+author: "Electoral Behaviour and Party Competition: Continuity and Change in WE"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/epbc.bib
+csl: ../00_bibliography/apa.csl
+toc: false
+toc-depth: 3
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: logo_unilu.png
+    footer: | 
+         Masterseminar Spring Term 2023
+    title-slide-attributes:
+      data-background-image: "unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: false
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+    progress: true
+    plugins: [ RevealNotes ]
+---
+
+## Table of contents
+
+[-@sec-introduction]. An introduction to replication
+
+[-@sec-replication]. The replication exercise
+
+[-@sec-conclusion]. Concluding remarks
+
+# An introduction to replication {#sec-introduction}
+
+## What is replication?
+
+- Conducting a previous study with **sufficiently similar methods** and under **sufficiently similar circumstances**
+
+- **Different types**:
+
+  1. Systematic repetition of the same analysis over the same data
+  
+  2. Additional analyses over the same data
+  
+  3. Same analyses over new data
+
+  4. Additional but related analyses over new but related data
+
+## Why is replication important?
+
+- Crucial for science because of:
+
+  1. **Verifiability**
+  
+  2. **Validity**
+  
+  3. Definition of the **scope conditions** of an argument
+
+
+# The replication exercise {#sec-replication}
+
+## Why are we doing it?
+
+1. Because **we can** (so you can do it at home!)
+
+2. **To validate** some of the claims we have discussed so far empirically
+
+3. Maybe, even **to discover** something new
+
+## Our replication exercise
+
+- We will focus on the most used indicator to assess party system change: **electoral volatility**
+
+- Specifically, we will use the data produced by Vincenzo Emanuele [-@Emanuele2015] on **electoral volatility in Western Europe from 1945 to 2015**
+
+- This is one of the dataset that he and his colleagues use to analyze party system change [e.g., @Chiaramonte2017]
+
+## R and RStudio
+
+- **R** is a free software environment for statistical computing and graphics with a vast collection of packages, all of them open source
+
+- **RStudio** is an Integrated Development Environment (IDE) specifically suited for R 
+
+- It is also **free and open source**
+
+- In addition, it **supports other languages** too (these slides have been done with reveals.js in RStudio!)
+
+## Let's get started!
+
+<br>
+
+Please, go to the [course repository](https://github.com/ACanalejo/ebpc_unilu2023), and download the file [replication exercise.Rmd](https://github.com/ACanalejo/ebpc_unilu2023/tree/main/14_session14/replication_exercise.Rmd)
+
+<br>
+
+::: {.fragment .fade-in}
+
+Now, **open the file from RStudio!**
+
+:::
+
+# Concluding remarks {#sec-conclusion}
+
+## We have finished the course!
+
+<br>
+
+::: {.fragment .fade-in}
+
+I hope **we have reached** most [**learning objectives**]{style="color:red"}
+
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+
+Remember that you can [**contact me**]{style="color:red"} **if you need help** for anything and that I will be happy to hear some [**feedback**]{style="color:red"} **for future versions of the course** and my future teaching assignments if you have any
+
+:::
+
+---
+
+<br>
+
+<br>
+
+Most importantly, **I hope you have enjoyed** as much as I have during the process :blush:
+
+
+<br>
+
+::: {.fragment .fade-in}
+
+[**Thank you all!**]{style="color:red"}
+
+:clap: :clap: :clap:
+
+:::
+
+## References
+
+::: {#refs}
+:::
